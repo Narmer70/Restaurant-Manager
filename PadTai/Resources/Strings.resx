@@ -1,0 +1,1089 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MF-btn1" xml:space="preserve">
+    <value>Order builder</value>
+  </data>
+  <data name="MF-btn9" xml:space="preserve">
+    <value>Table reservation</value>
+  </data>
+  <data name="MF-btn10" xml:space="preserve">
+    <value>Dish restriction</value>
+  </data>
+  <data name="MF-btn3" xml:space="preserve">
+    <value>Dish data</value>
+  </data>
+  <data name="MF-btn2" xml:space="preserve">
+    <value>Daily reports</value>
+  </data>
+  <data name="MF-btn18" xml:space="preserve">
+    <value>Loyalty program</value>
+  </data>
+  <data name="MF-btn5" xml:space="preserve">
+    <value>Edit orders</value>
+  </data>
+  <data name="MF-btn6" xml:space="preserve">
+    <value>Close shift</value>
+  </data>
+  <data name="MF-btn7" xml:space="preserve">
+    <value>Daily charts</value>
+  </data>
+  <data name="MF-btn11" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="MF-btn8" xml:space="preserve">
+    <value>Daily spendings</value>
+  </data>
+  <data name="MF-btn14" xml:space="preserve">
+    <value>Timetable</value>
+  </data>
+  <data name="MF-btn13" xml:space="preserve">
+    <value>Personnel</value>
+  </data>
+  <data name="MF-btn15" xml:space="preserve">
+    <value>Departments</value>
+  </data>
+  <data name="MF-btn16" xml:space="preserve">
+    <value>Delivery</value>
+  </data>
+  <data name="MF-btn17" xml:space="preserve">
+    <value>Inventory</value>
+  </data>
+  <data name="MF-btn4" xml:space="preserve">
+    <value>Recipe constructor</value>
+  </data>
+  <data name="MF-btn19" xml:space="preserve">
+    <value>Other data</value>
+  </data>
+  <data name="MF-linklbl1" xml:space="preserve">
+    <value>Login as manager</value>
+  </data>
+  <data name="MF-linklbl2" xml:space="preserve">
+    <value>Exit manager mode</value>
+  </data>
+  <data name="MF-label1" xml:space="preserve">
+    <value>Departments</value>
+  </data>
+  <data name="MF-label2" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="MF-label3" xml:space="preserve">
+    <value>Order</value>
+  </data>
+  <data name="MF-label4" xml:space="preserve">
+    <value>Staff and products</value>
+  </data>
+  <data name="MF-label5" xml:space="preserve">
+    <value>Managers</value>
+  </data>
+  <data name="MF-label6" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="MF-ctxtMenuShow" xml:space="preserve">
+    <value>Display </value>
+  </data>
+  <data name="MF-ctxtMenuQuit" xml:space="preserve">
+    <value>Quit app</value>
+  </data>
+  <data name="FCK-btn3" xml:space="preserve">
+    <value>Pay</value>
+  </data>
+  <data name="FCK-btn1" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="FCK-btn2" xml:space="preserve">
+    <value>Customer discount.</value>
+  </data>
+  <data name="FCK-lbl4" xml:space="preserve">
+    <value>Discount:</value>
+  </data>
+  <data name="FCK-lbl5" xml:space="preserve">
+    <value>Pay:</value>
+  </data>
+  <data name="FIM-paytype" xml:space="preserve">
+    <value>     Payment method:</value>
+  </data>
+  <data name="FIM-delivery" xml:space="preserve">
+    <value>     Delivery type:</value>
+  </data>
+  <data name="FIM-discount" xml:space="preserve">
+    <value>     Discount (%):</value>
+  </data>
+  <data name="FIM-totalprice" xml:space="preserve">
+    <value>     Total amount:</value>
+  </data>
+  <data name="FCK-btn36" xml:space="preserve">
+    <value>Delivery</value>
+  </data>
+  <data name="FCK-btn17" xml:space="preserve">
+    <value>Upgrade payment</value>
+  </data>
+  <data name="Sumdiscount" xml:space="preserve">
+    <value>     Discount amount:</value>
+  </data>
+  <data name="Newprice" xml:space="preserve">
+    <value>     New price:</value>
+  </data>
+  <data name="FCK-txt1Watermark" xml:space="preserve">
+    <value>  Comment...</value>
+  </data>
+  <data name="Btn-morebtn23" xml:space="preserve">
+    <value>Shift cashier</value>
+  </data>
+  <data name="Btn-morebtn22" xml:space="preserve">
+    <value>Bill split</value>
+  </data>
+  <data name="Btn-morebtn18" xml:space="preserve">
+    <value>Price split </value>
+  </data>
+  <data name="Btn-morebtn19" xml:space="preserve">
+    <value>Chat</value>
+  </data>
+  <data name="Btn-morebtn20" xml:space="preserve">
+    <value>Hall display</value>
+  </data>
+  <data name="Btn-morebtn21" xml:space="preserve">
+    <value>Printing style</value>
+  </data>
+  <data name="Btn-morebtn24" xml:space="preserve">
+    <value>Kitchen display</value>
+  </data>
+  <data name="Addbtns-btn17" xml:space="preserve">
+    <value>Discounts</value>
+  </data>
+  <data name="Addbtns-btn18" xml:space="preserve">
+    <value>Dishes</value>
+  </data>
+  <data name="Addbtns-btn19" xml:space="preserve">
+    <value>Tables</value>
+  </data>
+  <data name="Addbtns-btn21" xml:space="preserve">
+    <value>Calculator</value>
+  </data>
+  <data name="Addbtns-btn22" xml:space="preserve">
+    <value>Clients</value>
+  </data>
+  <data name="Addbtns-btn23" xml:space="preserve">
+    <value>Ind-discount</value>
+  </data>
+  <data name="Addbtns-btn24" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="TBS-Place" xml:space="preserve">
+    <value>Seat</value>
+  </data>
+  <data name="TBS-Places" xml:space="preserve">
+    <value>Seats</value>
+  </data>
+  <data name="FCH-Lbl2" xml:space="preserve">
+    <value>Table n°:</value>
+  </data>
+  <data name="FCH-lbl9" xml:space="preserve">
+    <value>Client name:</value>
+  </data>
+  <data name="Yesbutton" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="Nobutton" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="место" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="Btnannuler" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="LGN-lbl1" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LGN-lbl2" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="LGN-lbl3" xml:space="preserve">
+    <value>Forgot your Password?</value>
+  </data>
+  <data name="LGN-lbl4" xml:space="preserve">
+    <value>Click here</value>
+  </data>
+  <data name="LGN-chbox1" xml:space="preserve">
+    <value>Show password</value>
+  </data>
+  <data name="iFPP-lbl1" xml:space="preserve">
+    <value>Your email</value>
+  </data>
+  <data name="iFPP-lbl2" xml:space="preserve">
+    <value>Enter confirmation code</value>
+  </data>
+  <data name="iFPP-lbl3" xml:space="preserve">
+    <value>Remember the pass?</value>
+  </data>
+  <data name="iFPP-lbl4" xml:space="preserve">
+    <value>Use password</value>
+  </data>
+  <data name="QRCode-Msg" xml:space="preserve">
+    <value>Mobile application for managers coming soon!</value>
+  </data>
+  <data name="Receiptprinttable" xml:space="preserve">
+    <value>Table</value>
+  </data>
+  <data name="Receiptprintsubtotal" xml:space="preserve">
+    <value>Subtotal</value>
+  </data>
+  <data name="Receiptprintpaymethod" xml:space="preserve">
+    <value>Payment method:</value>
+  </data>
+  <data name="Receiptprinttotal" xml:space="preserve">
+    <value>Total:</value>
+  </data>
+  <data name="Receiptprintcurrency" xml:space="preserve">
+    <value>Currency:</value>
+  </data>
+  <data name="Receiptprintthanks" xml:space="preserve">
+    <value>THANKS FOR YOUR PURCHASE!</value>
+  </data>
+  <data name="Receiptprintqrcode" xml:space="preserve">
+    <value>Functionality coming soon!</value>
+  </data>
+  <data name="Receiptprintclient" xml:space="preserve">
+    <value>Client:</value>
+  </data>
+  <data name="Receiptprintwarning" xml:space="preserve">
+    <value>This is a copy and may have been modified!</value>
+  </data>
+  <data name="Printtablenumber" xml:space="preserve">
+    <value>Table number:</value>
+  </data>
+  <data name="Printtableguests" xml:space="preserve">
+    <value>Number of guests:</value>
+  </data>
+  <data name="Printtabletime" xml:space="preserve">
+    <value>Reservation time:</value>
+  </data>
+  <data name="Printtableguestname" xml:space="preserve">
+    <value>Guest name:</value>
+  </data>
+  <data name="Printtableguestgender" xml:space="preserve">
+    <value>Guest gender:</value>
+  </data>
+  <data name="Printtablestatus" xml:space="preserve">
+    <value>Status:</value>
+  </data>
+  <data name="Printtableguestcontact" xml:space="preserve">
+    <value>Guest contact:</value>
+  </data>
+  <data name="Printtablethanks" xml:space="preserve">
+    <value>Thank you for your reservation!</value>
+  </data>
+  <data name="Tablecancelled" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="Tablecompleted" xml:space="preserve">
+    <value>Completed</value>
+  </data>
+  <data name="ClavierbtnA" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="ClavierbtnB" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="ClavierbtnC" xml:space="preserve">
+    <value>C</value>
+  </data>
+  <data name="ClavierbtnD" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="ClavierbtnE" xml:space="preserve">
+    <value>E</value>
+  </data>
+  <data name="ClavierbtnF" xml:space="preserve">
+    <value>F</value>
+  </data>
+  <data name="ClavierbtnG" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="ClavierbtnH" xml:space="preserve">
+    <value>H</value>
+  </data>
+  <data name="ClavierbtnI" xml:space="preserve">
+    <value>I</value>
+  </data>
+  <data name="ClavierbtnJ" xml:space="preserve">
+    <value>J</value>
+  </data>
+  <data name="ClavierbtnK" xml:space="preserve">
+    <value>K</value>
+  </data>
+  <data name="ClavierbtnL" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="ClavierbtnM" xml:space="preserve">
+    <value>M</value>
+  </data>
+  <data name="ClavierbtnN" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="ClavierbtnO" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="ClavierbtnP" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="ClavierbtnQ" xml:space="preserve">
+    <value>Q</value>
+  </data>
+  <data name="ClavierbtnR" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="ClavierbtnS" xml:space="preserve">
+    <value>S</value>
+  </data>
+  <data name="ClavierbtnT" xml:space="preserve">
+    <value>T</value>
+  </data>
+  <data name="ClavierbtnU" xml:space="preserve">
+    <value>U</value>
+  </data>
+  <data name="ClavierbtnV" xml:space="preserve">
+    <value>V</value>
+  </data>
+  <data name="ClavierbtnW" xml:space="preserve">
+    <value>W</value>
+  </data>
+  <data name="ClavierbtnX" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="ClavierbtnY" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="ClavierbtnZ" xml:space="preserve">
+    <value>Z</value>
+  </data>
+  <data name="Clavierbtn1" xml:space="preserve">
+    <value>§</value>
+  </data>
+  <data name="Clavierbtn2" xml:space="preserve">
+    <value>²</value>
+  </data>
+  <data name="Clavierbtn3" xml:space="preserve">
+    <value>±</value>
+  </data>
+  <data name="Clavierbtn4" xml:space="preserve">
+    <value>∞</value>
+  </data>
+  <data name="Clavierbtn5" xml:space="preserve">
+    <value>º</value>
+  </data>
+  <data name="Clavierbtn6" xml:space="preserve">
+    <value>—</value>
+  </data>
+  <data name="Clavierbtn7" xml:space="preserve">
+    <value>µ</value>
+  </data>
+  <data name="Btn-close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="GenderH" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="GenderF" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="GenderO" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="Closesession" xml:space="preserve">
+    <value>Close today's shift?</value>
+  </data>
+  <data name="Tablenostatus" xml:space="preserve">
+    <value>No status </value>
+  </data>
+  <data name="Printdelivery" xml:space="preserve">
+    <value>Delivery type</value>
+  </data>
+  <data name="Comingsoon" xml:space="preserve">
+    <value>Coming soon!</value>
+  </data>
+  <data name="Popdeletedish" xml:space="preserve">
+    <value>Delete selected dish?</value>
+  </data>
+  <data name="Popdefaultpay" xml:space="preserve">
+    <value>Pay using</value>
+  </data>
+  <data name="FSettings1" xml:space="preserve">
+    <value>Continious discount calculation</value>
+  </data>
+  <data name="FSettings2" xml:space="preserve">
+    <value>Show dish picture if any</value>
+  </data>
+  <data name="FSettings3" xml:space="preserve">
+    <value>Play notifications sound</value>
+  </data>
+  <data name="FSettings4" xml:space="preserve">
+    <value>Preserve draft receipts</value>
+  </data>
+  <data name="FSettings5" xml:space="preserve">
+    <value>Use app virtual keyboard</value>
+  </data>
+  <data name="IndivDisc-lbl2" xml:space="preserve">
+    <value>Discount amount %</value>
+  </data>
+  <data name="IndivDisc-lbl3" xml:space="preserve">
+    <value>List of discounted dishes</value>
+  </data>
+  <data name="IndivDisc-lbl4" xml:space="preserve">
+    <value>Occurrences</value>
+  </data>
+  <data name="IndivDisc-lbl5" xml:space="preserve">
+    <value>↑ Double click to select</value>
+  </data>
+  <data name="Nointernet" xml:space="preserve">
+    <value>No internet connection</value>
+  </data>
+  <data name="Noaccount" xml:space="preserve">
+    <value>No premium account</value>
+  </data>
+  <data name="Makeaccount" xml:space="preserve">
+    <value>Create an account</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Retry</value>
+  </data>
+  <data name="Staffdash-lbl1" xml:space="preserve">
+    <value>Receipts</value>
+  </data>
+  <data name="Staffdash-lbl3" xml:space="preserve">
+    <value>Days with us</value>
+  </data>
+  <data name="Staffdash-lbl5" xml:space="preserve">
+    <value>In revenus</value>
+  </data>
+  <data name="Staffdash01" xml:space="preserve">
+    <value>Session opened the </value>
+  </data>
+  <data name="Staffdash02" xml:space="preserve">
+    <value>at: </value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Position" xml:space="preserve">
+    <value>Position</value>
+  </data>
+  <data name="Day1" xml:space="preserve">
+    <value>1st work day</value>
+  </data>
+  <data name="Dailyreport-lbl3" xml:space="preserve">
+    <value>Total Receipts</value>
+  </data>
+  <data name="Dailyreport-lbl4" xml:space="preserve">
+    <value>Total Revenue</value>
+  </data>
+  <data name="Dailyreport-place" xml:space="preserve">
+    <value>Delivery type</value>
+  </data>
+  <data name="Dailyreport-qte" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="Dailyreport-sum" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="Dailyreport-dname" xml:space="preserve">
+    <value>Dishes names</value>
+  </data>
+  <data name="Dailyreport-price" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="Dailyreport-Recid" xml:space="preserve">
+    <value>Rec ID</value>
+  </data>
+  <data name="Dailyreport-discounted" xml:space="preserve">
+    <value>Discounted</value>
+  </data>
+  <data name="Dailyreport-dishes" xml:space="preserve">
+    <value>Dishes sold</value>
+  </data>
+  <data name="Dailyreport-foodtype" xml:space="preserve">
+    <value>Dish type</value>
+  </data>
+  <data name="Dailyreport-total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Dailyreport-paytype" xml:space="preserve">
+    <value>Payment method</value>
+  </data>
+  <data name="Dailyreport-reccontent" xml:space="preserve">
+    <value>Receipts content</value>
+  </data>
+  <data name="Dailypay-btn" xml:space="preserve">
+    <value>Payments</value>
+  </data>
+  <data name="Dailyprints-btn" xml:space="preserve">
+    <value>Prints</value>
+  </data>
+  <data name="Dailyreport-discount" xml:space="preserve">
+    <value>Discount amount</value>
+  </data>
+  <data name="Dcharts-deliveryt1" xml:space="preserve">
+    <value>Delivery Pie</value>
+  </data>
+  <data name="Dcharts-deliveryt2" xml:space="preserve">
+    <value>Deliveries/Hour</value>
+  </data>
+  <data name="Dcharts-discountt1" xml:space="preserve">
+    <value>Discounts Pie</value>
+  </data>
+  <data name="Dcharts-discountt2" xml:space="preserve">
+    <value>Discounts/Hour</value>
+  </data>
+  <data name="Dcharts-disht1" xml:space="preserve">
+    <value>Dish categories pie</value>
+  </data>
+  <data name="Dcharts-disht2" xml:space="preserve">
+    <value>Dish type/Hour</value>
+  </data>
+  <data name="Dcharts-payt2" xml:space="preserve">
+    <value>Used payment/Hour</value>
+  </data>
+  <data name="Dcharts-payt1" xml:space="preserve">
+    <value>Payments Pie</value>
+  </data>
+  <data name="Dcharts-receiptt2" xml:space="preserve">
+    <value>Receipts frequency</value>
+  </data>
+  <data name="Dcharts-receiptt1" xml:space="preserve">
+    <value>Receipt count/hour</value>
+  </data>
+  <data name="SETACC-btnsACH" xml:space="preserve">
+    <value>Apply changes</value>
+  </data>
+  <data name="SETACC-btn2" xml:space="preserve">
+    <value>Save choice</value>
+  </data>
+  <data name="SETACC-rbtn1" xml:space="preserve">
+    <value>Locations</value>
+  </data>
+  <data name="SETACC-rbtn6" xml:space="preserve">
+    <value>Save image</value>
+  </data>
+  <data name="SETACC-rbtn7" xml:space="preserve">
+    <value>Delete image</value>
+  </data>
+  <data name="SETACC-rbtn8" xml:space="preserve">
+    <value>Confirm email</value>
+  </data>
+  <data name="SETACC-lbl3" xml:space="preserve">
+    <value>MODIFY YOUR DATA</value>
+  </data>
+  <data name="SETACC-lbl10" xml:space="preserve">
+    <value>Scan to connect to mobile app</value>
+  </data>
+  <data name="SETACC-lbl7" xml:space="preserve">
+    <value>Business name</value>
+  </data>
+  <data name="SETACC-lbl1" xml:space="preserve">
+    <value>Location name</value>
+  </data>
+  <data name="SETACC-lbl6" xml:space="preserve">
+    <value>Location address</value>
+  </data>
+  <data name="SETACC-lbl9" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="SETACC-lbl8" xml:space="preserve">
+    <value>Email address</value>
+  </data>
+  <data name="SETACC-lbl5" xml:space="preserve">
+    <value>Modify the location</value>
+  </data>
+  <data name="Btn-Add" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="RF-btn3" xml:space="preserve">
+    <value>Tables plan</value>
+  </data>
+  <data name="RF-btn1" xml:space="preserve">
+    <value>Reservations</value>
+  </data>
+  <data name="RF-lbl1" xml:space="preserve">
+    <value>No reservation at the moment</value>
+  </data>
+  <data name="DR-lbl3" xml:space="preserve">
+    <value>No order at the moment</value>
+  </data>
+  <data name="GENSET-lbl1" xml:space="preserve">
+    <value>App language</value>
+  </data>
+  <data name="GENSET-lbl2" xml:space="preserve">
+    <value>App theme</value>
+  </data>
+  <data name="GENSET-lbl3" xml:space="preserve">
+    <value>App currency</value>
+  </data>
+  <data name="GENSET-lbl4" xml:space="preserve">
+    <value>Enable individual discount button</value>
+  </data>
+  <data name="GENSET-lbl5" xml:space="preserve">
+    <value>Enable scrollbars</value>
+  </data>
+  <data name="GENSET-lbl6" xml:space="preserve">
+    <value>Recipe page in read only mode</value>
+  </data>
+  <data name="GENSET-lbl7" xml:space="preserve">
+    <value>Activate "Headquarter" mode</value>
+  </data>
+  <data name="GENSET-lbl8" xml:space="preserve">
+    <value>apply only for "Light" theme</value>
+  </data>
+  <data name="GENSET-lbl12" xml:space="preserve">
+    <value>Virtual keyboard in full screen</value>
+  </data>
+  <data name="SET-btn1" xml:space="preserve">
+    <value>Hardware</value>
+  </data>
+  <data name="SET-btn2" xml:space="preserve">
+    <value>Your account</value>
+  </data>
+  <data name="SET-rbtn1" xml:space="preserve">
+    <value>Subscription</value>
+  </data>
+  <data name="SET-btn6" xml:space="preserve">
+    <value>General </value>
+  </data>
+  <data name="Btnconfirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="Delete-lbl1" xml:space="preserve">
+    <value>Are you sure you want to delete this item?</value>
+  </data>
+  <data name="SETPRINT-lbl1" xml:space="preserve">
+    <value>Print settings</value>
+  </data>
+  <data name="SETPRINT-lbl5" xml:space="preserve">
+    <value>Print to new line at "+" in dish name</value>
+  </data>
+  <data name="SETPRINT-lbl8" xml:space="preserve">
+    <value>Automatic receipts print</value>
+  </data>
+  <data name="SETPRINT-lbl10" xml:space="preserve">
+    <value>Print restaurant logo if any</value>
+  </data>
+  <data name="SETPRINT-lbl9" xml:space="preserve">
+    <value>Print to new line if necessary</value>
+  </data>
+  <data name="SETPRINT-lbl11" xml:space="preserve">
+    <value>Print Receipt QR code</value>
+  </data>
+  <data name="Btn-save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="BTNDIS-btn2" xml:space="preserve">
+    <value>Restricted</value>
+  </data>
+  <data name="Btn-Enter" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>h</value>
+  </data>
+  <data name="Gramm" xml:space="preserve">
+    <value>g</value>
+  </data>
+  <data name="Novalue" xml:space="preserve">
+    <value>No value</value>
+  </data>
+  <data name="SREC-Prodname" xml:space="preserve">
+    <value>Products used</value>
+  </data>
+  <data name="SREC-Amounting" xml:space="preserve">
+    <value>Amounts(g)</value>
+  </data>
+  <data name="SREC-Indishes" xml:space="preserve">
+    <value>Used in:</value>
+  </data>
+  <data name="SREC-lbl4" xml:space="preserve">
+    <value>Print recipe</value>
+  </data>
+  <data name="SREC-rbtn6" xml:space="preserve">
+    <value>Products</value>
+  </data>
+  <data name="SREC-rbtn7" xml:space="preserve">
+    <value>Recipes</value>
+  </data>
+  <data name="EMPTT-workhours" xml:space="preserve">
+    <value>Working hours</value>
+  </data>
+  <data name="EMPTT-Empworking" xml:space="preserve">
+    <value>Day team:</value>
+  </data>
+  <data name="EMPTT-daysofmonth" xml:space="preserve">
+    <value>Working dates:</value>
+  </data>
+  <data name="EMPTT-lbl4" xml:space="preserve">
+    <value>Print timetable</value>
+  </data>
+  <data name="EMPTT-sumhours" xml:space="preserve">
+    <value>Total hours</value>
+  </data>
+  <data name="EMPTT-Salary/h" xml:space="preserve">
+    <value>Salary/ h</value>
+  </data>
+  <data name="EMPTT-grosssalary" xml:space="preserve">
+    <value>Gross salary</value>
+  </data>
+  <data name="EMPTT-bonus" xml:space="preserve">
+    <value>Bonuses</value>
+  </data>
+  <data name="EMPTT-penalities" xml:space="preserve">
+    <value>Penalties</value>
+  </data>
+  <data name="EMPTT-finalsalary" xml:space="preserve">
+    <value>Final salary</value>
+  </data>
+  <data name="Getimage" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="SETPRINT-lbl2" xml:space="preserve">
+    <value>Number of copies per print</value>
+  </data>
+  <data name="GENSET-lbl9" xml:space="preserve">
+    <value>Disable Manager mode</value>
+  </data>
+  <data name="TR-rbtn1" xml:space="preserve">
+    <value>Tables</value>
+  </data>
+  <data name="DC-lbl3" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="DC-lbl2" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="DC-lbl1" xml:space="preserve">
+    <value>Your business name</value>
+  </data>
+  <data name="DC-lbl6" xml:space="preserve">
+    <value>Already have an account ?</value>
+  </data>
+  <data name="DC-lbl7" xml:space="preserve">
+    <value>*Business logo ↑</value>
+  </data>
+  <data name="DC-lbl8" xml:space="preserve">
+    <value>Your Email</value>
+  </data>
+  <data name="DC-lbl9" xml:space="preserve">
+    <value>Your Password</value>
+  </data>
+  <data name="DC-lbl11" xml:space="preserve">
+    <value>Email verification code</value>
+  </data>
+  <data name="DC-linkbl1" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="DC-rbtn1" xml:space="preserve">
+    <value>Create your account</value>
+  </data>
+  <data name="DC-rbtn2" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="DC-rbtn7" xml:space="preserve">
+    <value>Delete account</value>
+  </data>
+  <data name="DC-rbtn5" xml:space="preserve">
+    <value>Confirm code</value>
+  </data>
+  <data name="DC-rbtn6" xml:space="preserve">
+    <value>Send code</value>
+  </data>
+  <data name="Parcourir" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Inserer" xml:space="preserve">
+    <value>Insert</value>
+  </data>
+  <data name="Skip" xml:space="preserve">
+    <value>Skip</value>
+  </data>
+  <data name="Skipall" xml:space="preserve">
+    <value>Skip all</value>
+  </data>
+  <data name="FI-lbl4" xml:space="preserve">
+    <value>GROUP(S) OF DISHES</value>
+  </data>
+  <data name="Filename" xml:space="preserve">
+    <value>File name</value>
+  </data>
+  <data name="Sheets" xml:space="preserve">
+    <value>Sheets</value>
+  </data>
+  <data name="FIT-lbl4" xml:space="preserve">
+    <value>DISH(ES)</value>
+  </data>
+  <data name="DC-IndError" xml:space="preserve">
+    <value>Index error</value>
+  </data>
+  <data name="DC-try11" xml:space="preserve">
+    <value>Please, enter a name first</value>
+  </data>
+  <data name="DC-try12" xml:space="preserve">
+    <value>Please, enter a password first</value>
+  </data>
+  <data name="DC-try13" xml:space="preserve">
+    <value>Please, enter your email first</value>
+  </data>
+  <data name="DC-try14" xml:space="preserve">
+    <value>Verify your email first</value>
+  </data>
+  <data name="DC-try15" xml:space="preserve">
+    <value>Account created successfully</value>
+  </data>
+  <data name="DC-try17" xml:space="preserve">
+    <value>Error creating account.</value>
+  </data>
+  <data name="DC-try16" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="DC-try18" xml:space="preserve">
+    <value>Create an account first</value>
+  </data>
+  <data name="Email-confirm" xml:space="preserve">
+    <value>Email Confirmation</value>
+  </data>
+  <data name="Email-conftext" xml:space="preserve">
+    <value>Your confirmation code is:</value>
+  </data>
+  <data name="Sel-image" xml:space="preserve">
+    <value>Select an Image</value>
+  </data>
+  <data name="DC-try19" xml:space="preserve">
+    <value>Confirmation code sent successfully!</value>
+  </data>
+  <data name="DC-try20" xml:space="preserve">
+    <value>Failed to send confirmation code</value>
+  </data>
+  <data name="M-password" xml:space="preserve">
+    <value>Moderate password</value>
+  </data>
+  <data name="W-password" xml:space="preserve">
+    <value>Weak password</value>
+  </data>
+  <data name="Empty-password" xml:space="preserve">
+    <value>Password can't be null.</value>
+  </data>
+  <data name="Empty-email" xml:space="preserve">
+    <value>E-mail cannot be null</value>
+  </data>
+  <data name="Inv-Email" xml:space="preserve">
+    <value>Invalid Email address</value>
+  </data>
+  <data name="Del-account" xml:space="preserve">
+    <value>Account deleted Successfully</value>
+  </data>
+  <data name="ERRORDel-account" xml:space="preserve">
+    <value>Error deleting account</value>
+  </data>
+  <data name="Noaccountdel" xml:space="preserve">
+    <value>No account to delete</value>
+  </data>
+  <data name="DC-try21" xml:space="preserve">
+    <value>6 figures expected</value>
+  </data>
+  <data name="DC-try22" xml:space="preserve">
+    <value>Confirmation code can't be null</value>
+  </data>
+  <data name="DC-try23" xml:space="preserve">
+    <value>Incorrect Confirmation code</value>
+  </data>
+  <data name="DC-try24" xml:space="preserve">
+    <value>Email confirmed successfully</value>
+  </data>
+  <data name="Email-noreply" xml:space="preserve">
+    <value>Please do not reply to this email</value>
+  </data>
+  <data name="Bestregards" xml:space="preserve">
+    <value>Best regards</value>
+  </data>
+  <data name="Closefile" xml:space="preserve">
+    <value>Excel file already opened. Close it first!</value>
+  </data>
+  <data name="Unexpectederror" xml:space="preserve">
+    <value>An unexpected error occurred.</value>
+  </data>
+  <data name="Checkdata" xml:space="preserve">
+    <value>Check and correct your data if necessary, before inserting them</value>
+  </data>
+  <data name="Exceldata" xml:space="preserve">
+    <value>No data to insert. Add data from Excel first</value>
+  </data>
+  <data name="Failedinsert" xml:space="preserve">
+    <value>Failed to insert data.</value>
+  </data>
+  <data name="Insertsucess" xml:space="preserve">
+    <value>Data inserted and saved successfully</value>
+  </data>
+  <data name="Rowsdeleted" xml:space="preserve">
+    <value>All rows deleted successfully</value>
+  </data>
+  <data name="Rowsnotdeleted" xml:space="preserve">
+    <value>No rows were deleted</value>
+  </data>
+  <data name="FGI-Colinsert" xml:space="preserve">
+    <value>Your data must be in the first and the second columns</value>
+  </data>
+  <data name="FGI-Colinteger" xml:space="preserve">
+    <value>The value(s) in the first column must be integers</value>
+  </data>
+  <data name="FII-lbl4" xml:space="preserve">
+    <value>FOOD ITEM(S)</value>
+  </data>
+  <data name="Invalidprice" xml:space="preserve">
+    <value>Invalid Price format</value>
+  </data>
+  <data name="InvalidFoodID" xml:space="preserve">
+    <value>Invalid TypeID. Must be an integer</value>
+  </data>
+  <data name="Notenoughdata" xml:space="preserve">
+    <value>Missing data in some or all required columns(4 first).</value>
+  </data>
+  <data name="FIIT-lbl4" xml:space="preserve">
+    <value>FOOD ITEM TYPE(S)</value>
+  </data>
+  <data name="FSGI-lbl4" xml:space="preserve">
+    <value>FOOD SUB GROUP(S)</value>
+  </data>
+  <data name="FSGI-Col123" xml:space="preserve">
+    <value>Your data must be in the 1st, 2nd, and 3rd columns</value>
+  </data>
+  <data name="FGSI-Intcol3" xml:space="preserve">
+    <value>"The value(s) in the third column must be integers"</value>
+  </data>
+  <data name="FSSGI-lbl4" xml:space="preserve">
+    <value>FOOD SUB SUB GROUP(S)</value>
+  </data>
+  <data name="Filterbygender" xml:space="preserve">
+    <value>Filter by gender"</value>
+  </data>
+  <data name="Filterbyjob" xml:space="preserve">
+    <value>Filter by job</value>
+  </data>
+</root>

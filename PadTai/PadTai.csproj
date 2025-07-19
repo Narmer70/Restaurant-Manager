@@ -1,0 +1,1218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\squirrel.windows.2.0.1\build\squirrel.windows.props" Condition="Exists('..\packages\squirrel.windows.2.0.1\build\squirrel.windows.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61B8EE80-796B-48DB-9E3F-56B16A30433A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PadTai</RootNamespace>
+    <AssemblyName>PadTai</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <PublishUrl>D:\4eme Annee\Pratique\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ExcelDataReader, Version=3.7.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.7.0\lib\net462\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.7.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.7.0\lib\net462\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="NuGet.Squirrel, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\squirrel.windows.2.0.1\lib\Net45\NuGet.Squirrel.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.6.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.6.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="Squirrel, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\squirrel.windows.2.0.1\lib\Net45\Squirrel.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.119.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.119.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.119.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.119.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.119.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Device.Portable, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3f6d3f5f65b761a0, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Device.Location.Portable.1.0.0\lib\System.Device.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Controlsdesign\CircularProgressbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\customBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\CustomDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\EclipseControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\MyRectangle.cs" />
+    <Compile Include="Classes\Controlsdesign\RoundedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\RoundedPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\RoundedTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\ToggleSwitch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Controlsdesign\Trans.cs" />
+    <Compile Include="Classes\Fastcheckmodifiers\CrudDatabase.cs" />
+    <Compile Include="Classes\Fastcheckmodifiers\ButtonClickHandler.cs" />
+    <Compile Include="Classes\Appresizers\ControlResizer.cs" />
+    <Compile Include="Classes\Fastcheckmodifiers\DraftReceiptSerializer.cs" />
+    <Compile Include="Classes\Others\BusinessInfo.cs" />
+    <Compile Include="Classes\Others\ColorPalette.cs" />
+    <Compile Include="Classes\Others\CurrencyService.cs" />
+    <Compile Include="Classes\Others\DatabaseConnection.cs" />
+    <Compile Include="Classes\Appresizers\DraggableForm.cs" />
+    <Compile Include="Classes\Appresizers\FontResizer.cs" />
+    <Compile Include="Classes\Fastcheckmodifiers\FoodItemManager.cs" />
+    <Compile Include="Classes\Others\DataGridViewScroller.cs" />
+    <Compile Include="Classes\Others\FormHelper.cs" />
+    <Compile Include="Classes\Appresizers\FormResizer.cs" />
+    <Compile Include="Classes\Others\ImageResizer.cs" />
+    <Compile Include="Classes\Others\LanguageManager.cs" />
+    <Compile Include="Classes\Controlsdesign\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Others\RestaurantDetails.cs" />
+    <Compile Include="Classes\Others\TelegramScheduler.cs" />
+    <Compile Include="Classes\Others\ThemeManager.cs" />
+    <Compile Include="Fastcheckfiles\Addit-btnsmore.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Addit-btnsmore.Designer.cs">
+      <DependentUpon>Addit-btnsmore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Additionalbtns.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Additionalbtns.Designer.cs">
+      <DependentUpon>Additionalbtns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Billsplitter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Billsplitter.Designer.cs">
+      <DependentUpon>Billsplitter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Clientdiscount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Clientdiscount.Designer.cs">
+      <DependentUpon>Clientdiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Clientslistdisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Clientslistdisplay.Designer.cs">
+      <DependentUpon>Clientslistdisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Comingsoon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Comingsoon.Designer.cs">
+      <DependentUpon>Comingsoon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DefaultPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DefaultPayment.Designer.cs">
+      <DependentUpon>DefaultPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DeletedOrders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DeletedOrders.Designer.cs">
+      <DependentUpon>DeletedOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DeliveryControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DeliveryControls.Designer.cs">
+      <DependentUpon>DeliveryControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DiscountControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DiscountControls.Designer.cs">
+      <DependentUpon>DiscountControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DishGroupControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\DishGroupControl.Designer.cs">
+      <DependentUpon>DishGroupControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Fastchecksettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Fastchecksettings.Designer.cs">
+      <DependentUpon>Fastchecksettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\IndividualDiscount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\IndividualDiscount.Designer.cs">
+      <DependentUpon>IndividualDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\PayConfirmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\PayConfirmForm.Designer.cs">
+      <DependentUpon>PayConfirmForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\PayupdateControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\PayupdateControls.Designer.cs">
+      <DependentUpon>PayupdateControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\PaymentControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\PaymentControls.Designer.cs">
+      <DependentUpon>PaymentControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\TablePlacesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\TablePlacesControl.Designer.cs">
+      <DependentUpon>TablePlacesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Strings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Strings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Strings.ru.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Strings.ru.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Strings.fr.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Strings.fr.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Dailyprints.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Dailyprints.Designer.cs">
+      <DependentUpon>Dailyprints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Otdelreports\OtdelReturntable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Otdelreports\OtdelReturntable.Designer.cs">
+      <DependentUpon>OtdelReturntable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Dailydeliverychart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Dailydeliverychart.Designer.cs">
+      <DependentUpon>Dailydeliverychart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Dailydiscountchart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Dailydiscountchart.Designer.cs">
+      <DependentUpon>Dailydiscountchart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Otdelupdater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Otdelupdater.Designer.cs">
+      <DependentUpon>Otdelupdater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Printersettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Printersettings.Designer.cs">
+      <DependentUpon>Printersettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Clientsloyalty\Clientloyalplan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Clientsloyalty\Clientloyalplan.Designer.cs">
+      <DependentUpon>Clientloyalplan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Clientsloyalty\Loyaltysettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Clientsloyalty\Loyaltysettings.Designer.cs">
+      <DependentUpon>Loyaltysettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Clientsloyalty\Modifyclientsdata.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Clientsloyalty\Modifyclientsdata.Designer.cs">
+      <DependentUpon>Modifyclientsdata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Departmentdata\Companywebsite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Departmentdata\Companywebsite.Designer.cs">
+      <DependentUpon>Companywebsite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Departmentdata\Departementsplitter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Departmentdata\Departementsplitter.Designer.cs">
+      <DependentUpon>Departementsplitter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Allreceiptreport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Allreceiptreport.Designer.cs">
+      <DependentUpon>Allreceiptreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Modifyproduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Modifyproduct.Designer.cs">
+      <DependentUpon>Modifyproduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Alertform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Alertform.Designer.cs">
+      <DependentUpon>Alertform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Daylyspendings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Daylyspendings.Designer.cs">
+      <DependentUpon>Daylyspendings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Departmentdata\Departcharts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Departmentdata\Departcharts.Designer.cs">
+      <DependentUpon>Departcharts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\FormMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\FormMessageBox.Designer.cs">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Employeereward.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Employeereward.Designer.cs">
+      <DependentUpon>Employeereward.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Savereceipes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Savereceipes.Designer.cs">
+      <DependentUpon>Savereceipes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Managegross.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Managegross.Designer.cs">
+      <DependentUpon>Managegross.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Monthlypayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Monthlypayment.Designer.cs">
+      <DependentUpon>Monthlypayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializelogin\Fooditemtypeinsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializelogin\Fooditemtypeinsert.Designer.cs">
+      <DependentUpon>Fooditemtypeinsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializelogin\Foodsubgroupinsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializelogin\Foodsubgroupinsert.Designer.cs">
+      <DependentUpon>Foodsubgroupinsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializelogin\Foodsubsubgroupinsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializelogin\Foodsubsubgroupinsert.Designer.cs">
+      <DependentUpon>Foodsubsubgroupinsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Otdelreports\Allotdelreports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Otdelreports\Allotdelreports.Designer.cs">
+      <DependentUpon>Allotdelreports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Dailygraphs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Dailygraphs.Designer.cs">
+      <DependentUpon>Dailygraphs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Foodgroupchart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Foodgroupchart.Designer.cs">
+      <DependentUpon>Foodgroupchart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Paychart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Paychart.Designer.cs">
+      <DependentUpon>Paychart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Receipthourchart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Reportgraphs\Receipthourchart.Designer.cs">
+      <DependentUpon>Receipthourchart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializelogin\Databasecreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializelogin\Databasecreate.Designer.cs">
+      <DependentUpon>Databasecreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializelogin\Foodgroupsinsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializelogin\Foodgroupsinsert.Designer.cs">
+      <DependentUpon>Foodgroupsinsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializelogin\Fooditemsinsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializelogin\Fooditemsinsert.Designer.cs">
+      <DependentUpon>Fooditemsinsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializelogin\Logindatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializelogin\Logindatabase.Designer.cs">
+      <DependentUpon>Logindatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Delivery\Deliverymap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Delivery\Deliverymap.Designer.cs">
+      <DependentUpon>Deliverymap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Delivery\Deliverysystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Delivery\Deliverysystem.Designer.cs">
+      <DependentUpon>Deliverysystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Generalsettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Generalsettings.Designer.cs">
+      <DependentUpon>Generalsettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Butttondisabler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Butttondisabler.Designer.cs">
+      <DependentUpon>Butttondisabler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Otdelrenamer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Applisettings\Otdelrenamer.Designer.cs">
+      <DependentUpon>Otdelrenamer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Clavieroverlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Clavieroverlay.Designer.cs">
+      <DependentUpon>Clavieroverlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Waitform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Waitform.Designer.cs">
+      <DependentUpon>Waitform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Modifyreservation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Modifyreservation.Designer.cs">
+      <DependentUpon>Modifyreservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Reservationdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Reservationdetails.Designer.cs">
+      <DependentUpon>Reservationdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Reservationform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Reservationform.Designer.cs">
+      <DependentUpon>Reservationform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\TableStructure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\TableStructure.Designer.cs">
+      <DependentUpon>TableStructure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Foodsettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Foodsettings.Designer.cs">
+      <DependentUpon>Foodsettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifygroups.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifygroups.Designer.cs">
+      <DependentUpon>Modifygroups.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Deletedishconfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Deletedishconfirm.Designer.cs">
+      <DependentUpon>Deletedishconfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\ModifySubsubgroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\ModifySubsubgroup.Designer.cs">
+      <DependentUpon>ModifySubsubgroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifydishes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifydishes.Designer.cs">
+      <DependentUpon>Modifydishes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Calculatrice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Calculatrice.Designer.cs">
+      <DependentUpon>Calculatrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Messaging.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Messaging.Designer.cs">
+      <DependentUpon>Messaging.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Discountcatreport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Discountcatreport.Designer.cs">
+      <DependentUpon>Discountcatreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Foodcatereport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Foodcatereport.Designer.cs">
+      <DependentUpon>Foodcatereport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Allfoodreport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Grossmanager\Allfoodreport.Designer.cs">
+      <DependentUpon>Allfoodreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPage.Designer.cs">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Fastcheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Fastcheck.Designer.cs">
+      <DependentUpon>Fastcheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Opening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Opening.Designer.cs">
+      <DependentUpon>Opening.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Deltypecateport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Deltypecateport.Designer.cs">
+      <DependentUpon>Deltypecateport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Deleterow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Deleterow.Designer.cs">
+      <DependentUpon>Deleterow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Paytypecatreport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Paytypecatreport.Designer.cs">
+      <DependentUpon>Paytypecatreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Quitfolder\Quitapp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Quitfolder\Quitapp.Designer.cs">
+      <DependentUpon>Quitapp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Quitfolder\Whenclosed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Others Forms\Quitfolder\Whenclosed.Designer.cs">
+      <DependentUpon>Whenclosed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Reportviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Allreports\Dailyreports\Reportviewer.Designer.cs">
+      <DependentUpon>Reportviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Emplotimetable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Emplotimetable.Designer.cs">
+      <DependentUpon>Emplotimetable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifytypes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifytypes.Designer.cs">
+      <DependentUpon>Modifytypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Modifytables.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Tablereservation\Modifytables.Designer.cs">
+      <DependentUpon>Modifytables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Customisablesform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Customisablesform.Designer.cs">
+      <DependentUpon>Customisablesform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Modifydiscounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Modifydiscounts.Designer.cs">
+      <DependentUpon>Modifydiscounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Modifypaygroups.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Modifypaygroups.Designer.cs">
+      <DependentUpon>Modifypaygroups.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Modifypayments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Otherupdates\Modifypayments.Designer.cs">
+      <DependentUpon>Modifypayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Modifystaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Modifystaff.Designer.cs">
+      <DependentUpon>Modifystaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Staffdash.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fastcheckfiles\Staffdash.Designer.cs">
+      <DependentUpon>Staffdash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Staffviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\Staffupdater\Staffviewer.Designer.cs">
+      <DependentUpon>Staffviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\ReceiptUpdater\Displayreceipts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\ReceiptUpdater\Displayreceipts.Designer.cs">
+      <DependentUpon>Displayreceipts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\ReceiptUpdater\Receiptdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\ReceiptUpdater\Receiptdetails.Designer.cs">
+      <DependentUpon>Receiptdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifysubgroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\Modifysubgroup.Designer.cs">
+      <DependentUpon>Modifysubgroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\UpdateFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\FoodUpdater\UpdateFood.Designer.cs">
+      <DependentUpon>UpdateFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\ReceiptUpdater\Updateprocess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sec-daryfolders\Updaters\ReceiptUpdater\Updateprocess.Designer.cs">
+      <DependentUpon>Updateprocess.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Fastcheckfiles\Addit-btnsmore.resx">
+      <DependentUpon>Addit-btnsmore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Additionalbtns.resx">
+      <DependentUpon>Additionalbtns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Billsplitter.resx">
+      <DependentUpon>Billsplitter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Clientdiscount.resx">
+      <DependentUpon>Clientdiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Clientslistdisplay.resx">
+      <DependentUpon>Clientslistdisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Comingsoon.resx">
+      <DependentUpon>Comingsoon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\DefaultPayment.resx">
+      <DependentUpon>DefaultPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\DeletedOrders.resx">
+      <DependentUpon>DeletedOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\DeliveryControls.resx">
+      <DependentUpon>DeliveryControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\DiscountControls.resx">
+      <DependentUpon>DiscountControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\DishGroupControl.resx">
+      <DependentUpon>DishGroupControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Fastchecksettings.resx">
+      <DependentUpon>Fastchecksettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\IndividualDiscount.resx">
+      <DependentUpon>IndividualDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\PayConfirmForm.resx">
+      <DependentUpon>PayConfirmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\PayupdateControls.resx">
+      <DependentUpon>PayupdateControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\PaymentControls.resx">
+      <DependentUpon>PaymentControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\TablePlacesControl.resx">
+      <DependentUpon>TablePlacesControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPage.fr.resx">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPage.ru.resx">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Strings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Strings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Strings.ru.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Strings.ru.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Strings.fr.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Strings.fr.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Dailyreports\Dailyprints.resx">
+      <DependentUpon>Dailyprints.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Otdelreports\OtdelReturntable.resx">
+      <DependentUpon>OtdelReturntable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Reportgraphs\Dailydeliverychart.resx">
+      <DependentUpon>Dailydeliverychart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Reportgraphs\Dailydiscountchart.resx">
+      <DependentUpon>Dailydiscountchart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Applisettings\Otdelupdater.resx">
+      <DependentUpon>Otdelupdater.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Applisettings\Printersettings.resx">
+      <DependentUpon>Printersettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Clientsloyalty\Clientloyalplan.resx">
+      <DependentUpon>Clientloyalplan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Clientsloyalty\Loyaltysettings.resx">
+      <DependentUpon>Loyaltysettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Clientsloyalty\Modifyclientsdata.resx">
+      <DependentUpon>Modifyclientsdata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Departmentdata\Companywebsite.resx">
+      <DependentUpon>Companywebsite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Departmentdata\Departementsplitter.resx">
+      <DependentUpon>Departementsplitter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Grossmanager\Allreceiptreport.resx">
+      <DependentUpon>Allreceiptreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Grossmanager\Modifyproduct.resx">
+      <DependentUpon>Modifyproduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Alertform.resx">
+      <DependentUpon>Alertform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Grossmanager\Daylyspendings.resx">
+      <DependentUpon>Daylyspendings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Departmentdata\Departcharts.resx">
+      <DependentUpon>Departcharts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\FormMessageBox.resx">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Staffupdater\Employeereward.resx">
+      <DependentUpon>Employeereward.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Grossmanager\Savereceipes.resx">
+      <DependentUpon>Savereceipes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Grossmanager\Managegross.resx">
+      <DependentUpon>Managegross.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Applisettings\Monthlypayment.resx">
+      <DependentUpon>Monthlypayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializelogin\Fooditemtypeinsert.resx">
+      <DependentUpon>Fooditemtypeinsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializelogin\Foodsubgroupinsert.resx">
+      <DependentUpon>Foodsubgroupinsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializelogin\Foodsubsubgroupinsert.resx">
+      <DependentUpon>Foodsubsubgroupinsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Otdelreports\Allotdelreports.resx">
+      <DependentUpon>Allotdelreports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Reportgraphs\Dailygraphs.resx">
+      <DependentUpon>Dailygraphs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Reportgraphs\Foodgroupchart.resx">
+      <DependentUpon>Foodgroupchart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Reportgraphs\Paychart.resx">
+      <DependentUpon>Paychart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Reportgraphs\Receipthourchart.resx">
+      <DependentUpon>Receipthourchart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializelogin\Databasecreate.resx">
+      <DependentUpon>Databasecreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializelogin\Foodgroupsinsert.resx">
+      <DependentUpon>Foodgroupsinsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializelogin\Fooditemsinsert.resx">
+      <DependentUpon>Fooditemsinsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializelogin\Logindatabase.resx">
+      <DependentUpon>Logindatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Delivery\Deliverymap.resx">
+      <DependentUpon>Deliverymap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Delivery\Deliverysystem.resx">
+      <DependentUpon>Deliverysystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Applisettings\Generalsettings.resx">
+      <DependentUpon>Generalsettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Butttondisabler.resx">
+      <DependentUpon>Butttondisabler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Applisettings\Otdelrenamer.resx">
+      <DependentUpon>Otdelrenamer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Clavieroverlay.resx">
+      <DependentUpon>Clavieroverlay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Waitform.resx">
+      <DependentUpon>Waitform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Tablereservation\Modifyreservation.resx">
+      <DependentUpon>Modifyreservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Tablereservation\Reservationdetails.resx">
+      <DependentUpon>Reservationdetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Tablereservation\Reservationform.resx">
+      <DependentUpon>Reservationform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Tablereservation\TableStructure.resx">
+      <DependentUpon>TableStructure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\Foodsettings.resx">
+      <DependentUpon>Foodsettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\Modifygroups.resx">
+      <DependentUpon>Modifygroups.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\Deletedishconfirm.resx">
+      <DependentUpon>Deletedishconfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\ModifySubsubgroup.resx">
+      <DependentUpon>ModifySubsubgroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\Modifydishes.resx">
+      <DependentUpon>Modifydishes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Calculatrice.resx">
+      <DependentUpon>Calculatrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Fastcheck.resx">
+      <DependentUpon>Fastcheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Messaging.resx">
+      <DependentUpon>Messaging.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Dailyreports\Discountcatreport.resx">
+      <DependentUpon>Discountcatreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Dailyreports\Foodcatereport.resx">
+      <DependentUpon>Foodcatereport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Grossmanager\Allfoodreport.resx">
+      <DependentUpon>Allfoodreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPage.resx">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Opening.resx">
+      <DependentUpon>Opening.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Dailyreports\Deltypecateport.resx">
+      <DependentUpon>Deltypecateport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Deleterow.resx">
+      <DependentUpon>Deleterow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Dailyreports\Paytypecatreport.resx">
+      <DependentUpon>Paytypecatreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Quitfolder\Quitapp.resx">
+      <DependentUpon>Quitapp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Others Forms\Quitfolder\Whenclosed.resx">
+      <DependentUpon>Whenclosed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Allreports\Dailyreports\Reportviewer.resx">
+      <DependentUpon>Reportviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Staffupdater\Emplotimetable.resx">
+      <DependentUpon>Emplotimetable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\Modifytypes.resx">
+      <DependentUpon>Modifytypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Tablereservation\Modifytables.resx">
+      <DependentUpon>Modifytables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Otherupdates\Customisablesform.resx">
+      <DependentUpon>Customisablesform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Otherupdates\Modifydiscounts.resx">
+      <DependentUpon>Modifydiscounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Otherupdates\Modifypaygroups.resx">
+      <DependentUpon>Modifypaygroups.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Otherupdates\Modifypayments.resx">
+      <DependentUpon>Modifypayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Staffupdater\Modifystaff.resx">
+      <DependentUpon>Modifystaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fastcheckfiles\Staffdash.resx">
+      <DependentUpon>Staffdash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\Staffupdater\Staffviewer.resx">
+      <DependentUpon>Staffviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\ReceiptUpdater\Displayreceipts.resx">
+      <DependentUpon>Displayreceipts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\ReceiptUpdater\Receiptdetails.resx">
+      <DependentUpon>Receiptdetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\Modifysubgroup.resx">
+      <DependentUpon>Modifysubgroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\FoodUpdater\UpdateFood.resx">
+      <DependentUpon>UpdateFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sec-daryfolders\Updaters\ReceiptUpdater\Updateprocess.resx">
+      <DependentUpon>Updateprocess.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\AppIcon.ico" />
+    <Content Include="Resources\attention_12465580.png" />
+    <Content Include="Resources\bar-chart_15173309.png" />
+    <Content Include="Resources\bell-congratulations-epic-stock-media-1-00-01.wav" />
+    <Content Include="Resources\calculation.png" />
+    <Content Include="Resources\calendarDark.png" />
+    <Content Include="Resources\calendarWhite.png" />
+    <Content Include="Resources\calendar_8567661.png" />
+    <Content Include="Resources\cash-flow_16289724.png" />
+    <Content Include="Resources\catering-service-concept-illustration.png" />
+    <Content Include="Resources\chat.png" />
+    <Content Include="Resources\checked_8072916.png" />
+    <Content Include="Resources\checklist_5190705.png" />
+    <Content Include="Resources\clear_symbol.png" />
+    <Content Include="Resources\clipboard_10419423.png" />
+    <Content Include="Resources\closed_17847902.png" />
+    <Content Include="Resources\coffee-shop-concept-illustration.png" />
+    <Content Include="Resources\deadline_7867564.png" />
+    <Content Include="Resources\delete_14090243.png" />
+    <Content Include="Resources\delivery-truck_4931581.png" />
+    <Content Include="Resources\disaster-recovery %281%29.png" />
+    <Content Include="Resources\dish.png" />
+    <Content Include="Resources\dish_17967768.png" />
+    <Content Include="Resources\diversification_16289810.png" />
+    <Content Include="Resources\edit_8866040.png" />
+    <Content Include="Resources\error.png" />
+    <Content Include="Resources\exclamation.png" />
+    <Content Include="Resources\eye.png" />
+    <Content Include="Resources\favorite_6952950.png" />
+    <Content Include="Resources\femme.jpg" />
+    <Content Include="Resources\folder_9782493.png" />
+    <Content Include="Resources\follower %281%29.png" />
+    <Content Include="Resources\follower %282%29.png" />
+    <Content Include="Resources\follower.png" />
+    <Content Include="Resources\food_14705524.png" />
+    <Content Include="Resources\guarantee_5290087.png" />
+    <Content Include="Resources\homme.jpg" />
+    <Content Include="Resources\id-card.png" />
+    <Content Include="Resources\image-add %281%29.png" />
+    <Content Include="Resources\image-add.png" />
+    <Content Include="Resources\image-add_13434878.png" />
+    <Content Include="Resources\invisible.png" />
+    <Content Include="Resources\issue_6206594.png" />
+    <Content Include="Resources\mail.png" />
+    <Content Include="Resources\ods_9496661.png" />
+    <Content Include="Resources\padlock.png" />
+    <Content Include="Resources\photo.png" />
+    <Content Include="Resources\pin.png" />
+    <Content Include="Resources\pin_12066913.png" />
+    <Content Include="Resources\question.png" />
+    <Content Include="Resources\receipt-concept-illustration.png" />
+    <Content Include="Resources\recurrence_18237511.png" />
+    <Content Include="Resources\scooter_1337182.png" />
+    <Content Include="Resources\search.png" />
+    <Content Include="Resources\search_12227561.png" />
+    <Content Include="Resources\settings.png" />
+    <Content Include="Resources\stock_16289768.png" />
+    <Content Include="Resources\support_17824757.png" />
+    <Content Include="Resources\ui-bell-ding-om-fx-2-2-00-04.wav" />
+    <Content Include="Resources\ui-negative-answer-om-fx-1-00-03.wav" />
+    <Content Include="Resources\waiters-concept-illustration.png" />
+    <Content Include="Resources\waiting-room %282%29.png" />
+    <Content Include="Resources\wallet_11928102.png" />
+    <Content Include="Resources\warning_9392685.png" />
+    <Content Include="Resources\wifi_9392763.png" />
+    <Content Include="Resources\xls_9496456.png" />
+    <Content Include="Resources\yield_16289791.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Sec-daryfolders\Allreports\Reportlearning\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Ce projet fait référence à des packages NuGet qui sont manquants sur cet ordinateur. Utilisez l'option de restauration des packages NuGet pour les télécharger. Pour plus d'informations, consultez http://go.microsoft.com/fwlink/?LinkID=322105. Le fichier manquant est : {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\squirrel.windows.2.0.1\build\squirrel.windows.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\squirrel.windows.2.0.1\build\squirrel.windows.props'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>

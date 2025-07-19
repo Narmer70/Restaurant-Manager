@@ -1,0 +1,1089 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MF-btn1" xml:space="preserve">
+    <value>Быстрий чек</value>
+  </data>
+  <data name="MF-btn9" xml:space="preserve">
+    <value>Резервирование столов</value>
+  </data>
+  <data name="MF-btn10" xml:space="preserve">
+    <value>Ограничение блюда</value>
+  </data>
+  <data name="MF-btn3" xml:space="preserve">
+    <value>Данные о блюде</value>
+  </data>
+  <data name="MF-btn2" xml:space="preserve">
+    <value>Просмотр отчетов</value>
+  </data>
+  <data name="MF-btn18" xml:space="preserve">
+    <value>Лояльность клиентов</value>
+  </data>
+  <data name="MF-btn5" xml:space="preserve">
+    <value>Редактирование заказов</value>
+  </data>
+  <data name="MF-btn6" xml:space="preserve">
+    <value>Закрытие смены кассы</value>
+  </data>
+  <data name="MF-btn7" xml:space="preserve">
+    <value>Просмотр диаграммы</value>
+  </data>
+  <data name="MF-btn11" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="MF-btn8" xml:space="preserve">
+    <value>Ежедневные траты</value>
+  </data>
+  <data name="MF-btn14" xml:space="preserve">
+    <value>Расписание</value>
+  </data>
+  <data name="MF-btn13" xml:space="preserve">
+    <value>Персонал</value>
+  </data>
+  <data name="MF-btn15" xml:space="preserve">
+    <value>Отделы</value>
+  </data>
+  <data name="MF-btn16" xml:space="preserve">
+    <value>Доставка</value>
+  </data>
+  <data name="MF-btn17" xml:space="preserve">
+    <value>Инвентарь</value>
+  </data>
+  <data name="MF-btn4" xml:space="preserve">
+    <value>Конструктор рецептов</value>
+  </data>
+  <data name="MF-btn19" xml:space="preserve">
+    <value>Другие данные</value>
+  </data>
+  <data name="MF-linklbl1" xml:space="preserve">
+    <value>Войти как менеджер</value>
+  </data>
+  <data name="MF-linklbl2" xml:space="preserve">
+    <value>Выйти из режима менеджера</value>
+  </data>
+  <data name="MF-label1" xml:space="preserve">
+    <value>Отделы</value>
+  </data>
+  <data name="MF-label2" xml:space="preserve">
+    <value>Смена</value>
+  </data>
+  <data name="MF-label3" xml:space="preserve">
+    <value>Заказ</value>
+  </data>
+  <data name="MF-label4" xml:space="preserve">
+    <value>Персонал и продукты</value>
+  </data>
+  <data name="MF-label5" xml:space="preserve">
+    <value>Менеджеры</value>
+  </data>
+  <data name="MF-label6" xml:space="preserve">
+    <value>Сервисы</value>
+  </data>
+  <data name="MF-ctxtMenuShow" xml:space="preserve">
+    <value>Отображать</value>
+  </data>
+  <data name="MF-ctxtMenuQuit" xml:space="preserve">
+    <value>Закрыть приложение</value>
+  </data>
+  <data name="FCK-btn3" xml:space="preserve">
+    <value>Оплатить</value>
+  </data>
+  <data name="FCK-btn1" xml:space="preserve">
+    <value>Обновить</value>
+  </data>
+  <data name="FCK-btn2" xml:space="preserve">
+    <value>Скидка клиента</value>
+  </data>
+  <data name="FCK-lbl4" xml:space="preserve">
+    <value>Скидка:</value>
+  </data>
+  <data name="FCK-lbl5" xml:space="preserve">
+    <value>Оплатить:</value>
+  </data>
+  <data name="FIM-paytype" xml:space="preserve">
+    <value>     Способ оплаты:</value>
+  </data>
+  <data name="FIM-delivery" xml:space="preserve">
+    <value>     Тип Доставки:</value>
+  </data>
+  <data name="FIM-discount" xml:space="preserve">
+    <value>     Скидка (%):</value>
+  </data>
+  <data name="FIM-totalprice" xml:space="preserve">
+    <value>     Общая сумма:</value>
+  </data>
+  <data name="FCK-btn36" xml:space="preserve">
+    <value>Доставка</value>
+  </data>
+  <data name="FCK-btn17" xml:space="preserve">
+    <value>Обновление платежа</value>
+  </data>
+  <data name="Sumdiscount" xml:space="preserve">
+    <value>     Сумма скидки:</value>
+  </data>
+  <data name="Newprice" xml:space="preserve">
+    <value>     Новая цена:</value>
+  </data>
+  <data name="FCK-txt1Watermark" xml:space="preserve">
+    <value>Комментарий...</value>
+  </data>
+  <data name="Btn-morebtn23" xml:space="preserve">
+    <value>Сменный кассир</value>
+  </data>
+  <data name="Btn-morebtn22" xml:space="preserve">
+    <value>Разделить чек</value>
+  </data>
+  <data name="Btn-morebtn18" xml:space="preserve">
+    <value>Разделить цену</value>
+  </data>
+  <data name="Btn-morebtn19" xml:space="preserve">
+    <value>Сообщения</value>
+  </data>
+  <data name="Btn-morebtn20" xml:space="preserve">
+    <value>Зал Дисплей</value>
+  </data>
+  <data name="Btn-morebtn21" xml:space="preserve">
+    <value>Стиль печати</value>
+  </data>
+  <data name="Btn-morebtn24" xml:space="preserve">
+    <value>Кухонный дисплей</value>
+  </data>
+  <data name="Addbtns-btn17" xml:space="preserve">
+    <value>Скидки</value>
+  </data>
+  <data name="Addbtns-btn18" xml:space="preserve">
+    <value>Блюда</value>
+  </data>
+  <data name="Addbtns-btn19" xml:space="preserve">
+    <value>Столы</value>
+  </data>
+  <data name="Addbtns-btn21" xml:space="preserve">
+    <value>Калькулятор</value>
+  </data>
+  <data name="Addbtns-btn22" xml:space="preserve">
+    <value>Клиенты</value>
+  </data>
+  <data name="Addbtns-btn23" xml:space="preserve">
+    <value>Инд-скидка</value>
+  </data>
+  <data name="Addbtns-btn24" xml:space="preserve">
+    <value>Отмененные</value>
+  </data>
+  <data name="TBS-Place" xml:space="preserve">
+    <value>Место</value>
+  </data>
+  <data name="TBS-Places" xml:space="preserve">
+    <value>Мест</value>
+  </data>
+  <data name="FCH-Lbl2" xml:space="preserve">
+    <value>Стол n°:</value>
+  </data>
+  <data name="FCH-lbl9" xml:space="preserve">
+    <value>Имя клиента:</value>
+  </data>
+  <data name="Yesbutton" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="Nobutton" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="место" xml:space="preserve">
+    <value>Подтвердите</value>
+  </data>
+  <data name="Btnannuler" xml:space="preserve">
+    <value>Отменить</value>
+  </data>
+  <data name="LGN-lbl1" xml:space="preserve">
+    <value>Логин</value>
+  </data>
+  <data name="LGN-lbl2" xml:space="preserve">
+    <value>Пароль</value>
+  </data>
+  <data name="LGN-lbl3" xml:space="preserve">
+    <value>Забыли ваш пароль?</value>
+  </data>
+  <data name="LGN-lbl4" xml:space="preserve">
+    <value>Нажмите</value>
+  </data>
+  <data name="LGN-chbox1" xml:space="preserve">
+    <value>Показать пароль</value>
+  </data>
+  <data name="iFPP-lbl1" xml:space="preserve">
+    <value>Ваш email</value>
+  </data>
+  <data name="iFPP-lbl2" xml:space="preserve">
+    <value>Введите код подтверждения</value>
+  </data>
+  <data name="iFPP-lbl3" xml:space="preserve">
+    <value>Помните ваш пароль?</value>
+  </data>
+  <data name="iFPP-lbl4" xml:space="preserve">
+    <value>Используйте</value>
+  </data>
+  <data name="QRCode-Msg" xml:space="preserve">
+    <value>Скоро появится мобильное приложение для менеджеров!</value>
+  </data>
+  <data name="Receiptprinttable" xml:space="preserve">
+    <value>Стол</value>
+  </data>
+  <data name="Receiptprintsubtotal" xml:space="preserve">
+    <value>Подытог</value>
+  </data>
+  <data name="Receiptprintpaymethod" xml:space="preserve">
+    <value>Способ оплаты:</value>
+  </data>
+  <data name="Receiptprinttotal" xml:space="preserve">
+    <value>Итого:</value>
+  </data>
+  <data name="Receiptprintcurrency" xml:space="preserve">
+    <value>Валюта:</value>
+  </data>
+  <data name="Receiptprintthanks" xml:space="preserve">
+    <value>СПАСИБО ЗА ПОКУПКУ!</value>
+  </data>
+  <data name="Receiptprintqrcode" xml:space="preserve">
+    <value>Скоро появится новая функциональность!</value>
+  </data>
+  <data name="Receiptprintclient" xml:space="preserve">
+    <value>Клиент:</value>
+  </data>
+  <data name="Receiptprintwarning" xml:space="preserve">
+    <value>Это копия, и она могла быть изменена!</value>
+  </data>
+  <data name="Printtablenumber" xml:space="preserve">
+    <value>Номер стола:</value>
+  </data>
+  <data name="Printtableguests" xml:space="preserve">
+    <value>Кол-во гостей:</value>
+  </data>
+  <data name="Printtabletime" xml:space="preserve">
+    <value>Время брони:</value>
+  </data>
+  <data name="Printtableguestname" xml:space="preserve">
+    <value>Имя гостя:</value>
+  </data>
+  <data name="Printtableguestgender" xml:space="preserve">
+    <value>Пол гостя:</value>
+  </data>
+  <data name="Printtablestatus" xml:space="preserve">
+    <value>Статус:</value>
+  </data>
+  <data name="Printtableguestcontact" xml:space="preserve">
+    <value>Телефон гостя:</value>
+  </data>
+  <data name="Printtablethanks" xml:space="preserve">
+    <value>Благодарим вас за бронирование!</value>
+  </data>
+  <data name="Tablecancelled" xml:space="preserve">
+    <value>Отменено</value>
+  </data>
+  <data name="Tablecompleted" xml:space="preserve">
+    <value>Завершено</value>
+  </data>
+  <data name="ClavierbtnA" xml:space="preserve">
+    <value>Ф</value>
+  </data>
+  <data name="ClavierbtnB" xml:space="preserve">
+    <value>И</value>
+  </data>
+  <data name="ClavierbtnC" xml:space="preserve">
+    <value>С</value>
+  </data>
+  <data name="ClavierbtnD" xml:space="preserve">
+    <value>В</value>
+  </data>
+  <data name="ClavierbtnE" xml:space="preserve">
+    <value>У</value>
+  </data>
+  <data name="ClavierbtnF" xml:space="preserve">
+    <value>А</value>
+  </data>
+  <data name="ClavierbtnG" xml:space="preserve">
+    <value>П</value>
+  </data>
+  <data name="ClavierbtnH" xml:space="preserve">
+    <value>Р</value>
+  </data>
+  <data name="ClavierbtnI" xml:space="preserve">
+    <value>Ш</value>
+  </data>
+  <data name="ClavierbtnJ" xml:space="preserve">
+    <value>О</value>
+  </data>
+  <data name="ClavierbtnK" xml:space="preserve">
+    <value>Л</value>
+  </data>
+  <data name="ClavierbtnL" xml:space="preserve">
+    <value>Д</value>
+  </data>
+  <data name="ClavierbtnM" xml:space="preserve">
+    <value>Ь</value>
+  </data>
+  <data name="ClavierbtnN" xml:space="preserve">
+    <value>Т</value>
+  </data>
+  <data name="ClavierbtnO" xml:space="preserve">
+    <value>Щ</value>
+  </data>
+  <data name="ClavierbtnP" xml:space="preserve">
+    <value>З</value>
+  </data>
+  <data name="ClavierbtnQ" xml:space="preserve">
+    <value>Й</value>
+  </data>
+  <data name="ClavierbtnR" xml:space="preserve">
+    <value>К</value>
+  </data>
+  <data name="ClavierbtnS" xml:space="preserve">
+    <value>Ы</value>
+  </data>
+  <data name="ClavierbtnT" xml:space="preserve">
+    <value>Е</value>
+  </data>
+  <data name="ClavierbtnU" xml:space="preserve">
+    <value>Г</value>
+  </data>
+  <data name="ClavierbtnV" xml:space="preserve">
+    <value>М</value>
+  </data>
+  <data name="ClavierbtnW" xml:space="preserve">
+    <value>Ц</value>
+  </data>
+  <data name="ClavierbtnX" xml:space="preserve">
+    <value>Ч</value>
+  </data>
+  <data name="ClavierbtnY" xml:space="preserve">
+    <value>Н</value>
+  </data>
+  <data name="ClavierbtnZ" xml:space="preserve">
+    <value>Я</value>
+  </data>
+  <data name="Clavierbtn1" xml:space="preserve">
+    <value>Х</value>
+  </data>
+  <data name="Clavierbtn2" xml:space="preserve">
+    <value>Ъ</value>
+  </data>
+  <data name="Clavierbtn3" xml:space="preserve">
+    <value>Ж</value>
+  </data>
+  <data name="Clavierbtn4" xml:space="preserve">
+    <value>Э</value>
+  </data>
+  <data name="Clavierbtn5" xml:space="preserve">
+    <value>Ё</value>
+  </data>
+  <data name="Clavierbtn6" xml:space="preserve">
+    <value>Б</value>
+  </data>
+  <data name="Clavierbtn7" xml:space="preserve">
+    <value>Ю</value>
+  </data>
+  <data name="Btn-close" xml:space="preserve">
+    <value>Выйти</value>
+  </data>
+  <data name="GenderH" xml:space="preserve">
+    <value>Мужской</value>
+  </data>
+  <data name="GenderF" xml:space="preserve">
+    <value>Женский</value>
+  </data>
+  <data name="GenderO" xml:space="preserve">
+    <value>Другой</value>
+  </data>
+  <data name="Closesession" xml:space="preserve">
+    <value>Закрыть сегодняшнюю смену?</value>
+  </data>
+  <data name="Tablenostatus" xml:space="preserve">
+    <value>Нет статуса</value>
+  </data>
+  <data name="Printdelivery" xml:space="preserve">
+    <value>Вид доставки</value>
+  </data>
+  <data name="Comingsoon" xml:space="preserve">
+    <value>Скоро!</value>
+  </data>
+  <data name="Popdeletedish" xml:space="preserve">
+    <value>Удалить выбранное блюдо ?</value>
+  </data>
+  <data name="Popdefaultpay" xml:space="preserve">
+    <value>Оплатить с помощью</value>
+  </data>
+  <data name="FSettings1" xml:space="preserve">
+    <value>Постоянный расчет скидки</value>
+  </data>
+  <data name="FSettings2" xml:space="preserve">
+    <value>Покажите фотографию блюда, если есть</value>
+  </data>
+  <data name="FSettings3" xml:space="preserve">
+    <value>Воспроизвести звуки уведомлений</value>
+  </data>
+  <data name="FSettings4" xml:space="preserve">
+    <value>Сохранить черновые чеки</value>
+  </data>
+  <data name="FSettings5" xml:space="preserve">
+    <value>Использовать виртуальную клавиатуру</value>
+  </data>
+  <data name="IndivDisc-lbl2" xml:space="preserve">
+    <value>Сумма скидки %</value>
+  </data>
+  <data name="IndivDisc-lbl3" xml:space="preserve">
+    <value>Список блюд со скидкой</value>
+  </data>
+  <data name="IndivDisc-lbl4" xml:space="preserve">
+    <value>Происшествия</value>
+  </data>
+  <data name="IndivDisc-lbl5" xml:space="preserve">
+    <value>↑ Двойной щелчок, чтобы выбрать</value>
+  </data>
+  <data name="Nointernet" xml:space="preserve">
+    <value>Нет подключения к интернету</value>
+  </data>
+  <data name="Noaccount" xml:space="preserve">
+    <value>Нет премиум-аккаунта</value>
+  </data>
+  <data name="Makeaccount" xml:space="preserve">
+    <value>Создать аккаунт</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Повторить</value>
+  </data>
+  <data name="Staffdash-lbl1" xml:space="preserve">
+    <value>Квитанции</value>
+  </data>
+  <data name="Staffdash-lbl3" xml:space="preserve">
+    <value>Дней с нами</value>
+  </data>
+  <data name="Staffdash-lbl5" xml:space="preserve">
+    <value>В доходе</value>
+  </data>
+  <data name="Staffdash01" xml:space="preserve">
+    <value>Сессия открылась</value>
+  </data>
+  <data name="Staffdash02" xml:space="preserve">
+    <value>в: </value>
+  </data>
+  <data name="Gender" xml:space="preserve">
+    <value>Пол</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Контакт</value>
+  </data>
+  <data name="Position" xml:space="preserve">
+    <value>Должность</value>
+  </data>
+  <data name="Day1" xml:space="preserve">
+    <value>1ый д работы</value>
+  </data>
+  <data name="Dailyreport-lbl3" xml:space="preserve">
+    <value>Общее кол-во чеки</value>
+  </data>
+  <data name="Dailyreport-lbl4" xml:space="preserve">
+    <value>Общий доход</value>
+  </data>
+  <data name="Dailyreport-place" xml:space="preserve">
+    <value>Тип доставки</value>
+  </data>
+  <data name="Dailyreport-qte" xml:space="preserve">
+    <value>Кол-во</value>
+  </data>
+  <data name="Dailyreport-sum" xml:space="preserve">
+    <value>Cумма</value>
+  </data>
+  <data name="Dailyreport-dname" xml:space="preserve">
+    <value>Наименования блюд</value>
+  </data>
+  <data name="Dailyreport-price" xml:space="preserve">
+    <value>Цена</value>
+  </data>
+  <data name="Dailyreport-Recid" xml:space="preserve">
+    <value>Чек ID</value>
+  </data>
+  <data name="Dailyreport-discounted" xml:space="preserve">
+    <value>Скидочная</value>
+  </data>
+  <data name="Dailyreport-dishes" xml:space="preserve">
+    <value>Проданных блюд</value>
+  </data>
+  <data name="Dailyreport-foodtype" xml:space="preserve">
+    <value>Тип блюда</value>
+  </data>
+  <data name="Dailyreport-total" xml:space="preserve">
+    <value>Итого</value>
+  </data>
+  <data name="Dailyreport-paytype" xml:space="preserve">
+    <value>Способ оплаты</value>
+  </data>
+  <data name="Dailyreport-reccontent" xml:space="preserve">
+    <value>Содержимое чеков</value>
+  </data>
+  <data name="Dailypay-btn" xml:space="preserve">
+    <value>Платежи</value>
+  </data>
+  <data name="Dailyprints-btn" xml:space="preserve">
+    <value>Распечатки</value>
+  </data>
+  <data name="Dailyreport-discount" xml:space="preserve">
+    <value>Сумма скидки</value>
+  </data>
+  <data name="Dcharts-deliveryt1" xml:space="preserve">
+    <value>Диаграмма поставок</value>
+  </data>
+  <data name="Dcharts-deliveryt2" xml:space="preserve">
+    <value>Доставки/час</value>
+  </data>
+  <data name="Dcharts-discountt1" xml:space="preserve">
+    <value>Диаграмма скидок</value>
+  </data>
+  <data name="Dcharts-discountt2" xml:space="preserve">
+    <value>Скидки/час</value>
+  </data>
+  <data name="Dcharts-disht1" xml:space="preserve">
+    <value>Категории блюд</value>
+  </data>
+  <data name="Dcharts-disht2" xml:space="preserve">
+    <value>Тип блюда/Час</value>
+  </data>
+  <data name="Dcharts-payt2" xml:space="preserve">
+    <value>Платежи/час</value>
+  </data>
+  <data name="Dcharts-payt1" xml:space="preserve">
+    <value>Диаграмма платежей</value>
+  </data>
+  <data name="Dcharts-receiptt2" xml:space="preserve">
+    <value>Чеки/час</value>
+  </data>
+  <data name="Dcharts-receiptt1" xml:space="preserve">
+    <value>Кол-во чеков/час</value>
+  </data>
+  <data name="SETACC-btnsACH" xml:space="preserve">
+    <value>Изменить</value>
+  </data>
+  <data name="SETACC-btn2" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="SETACC-rbtn1" xml:space="preserve">
+    <value>Местоположения</value>
+  </data>
+  <data name="SETACC-rbtn6" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="SETACC-rbtn7" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="SETACC-rbtn8" xml:space="preserve">
+    <value>Подтвердить email</value>
+  </data>
+  <data name="SETACC-lbl3" xml:space="preserve">
+    <value>ИЗМЕНИТЬ ВАШИ ДАННЫЕ</value>
+  </data>
+  <data name="SETACC-lbl10" xml:space="preserve">
+    <value>Отсканируйте, чтобы подключиться</value>
+  </data>
+  <data name="SETACC-lbl7" xml:space="preserve">
+    <value>Название предприятия</value>
+  </data>
+  <data name="SETACC-lbl1" xml:space="preserve">
+    <value>Название локации</value>
+  </data>
+  <data name="SETACC-lbl6" xml:space="preserve">
+    <value>Адрес место</value>
+  </data>
+  <data name="SETACC-lbl9" xml:space="preserve">
+    <value>Пароль</value>
+  </data>
+  <data name="SETACC-lbl8" xml:space="preserve">
+    <value>Адрес эл. почты</value>
+  </data>
+  <data name="SETACC-lbl5" xml:space="preserve">
+    <value>Изменить место</value>
+  </data>
+  <data name="Btn-Add" xml:space="preserve">
+    <value>Добавить</value>
+  </data>
+  <data name="RF-btn3" xml:space="preserve">
+    <value>План столов</value>
+  </data>
+  <data name="RF-btn1" xml:space="preserve">
+    <value>Бронирование</value>
+  </data>
+  <data name="RF-lbl1" xml:space="preserve">
+    <value>На данный момент бронирования нет </value>
+  </data>
+  <data name="DR-lbl3" xml:space="preserve">
+    <value>Заказов на данный момент нет</value>
+  </data>
+  <data name="GENSET-lbl1" xml:space="preserve">
+    <value>Язык приложения</value>
+  </data>
+  <data name="GENSET-lbl2" xml:space="preserve">
+    <value>Тема приложения</value>
+  </data>
+  <data name="GENSET-lbl3" xml:space="preserve">
+    <value>Валюта приложения</value>
+  </data>
+  <data name="GENSET-lbl4" xml:space="preserve">
+    <value>Включить кнопку индивидуальной скидки</value>
+  </data>
+  <data name="GENSET-lbl5" xml:space="preserve">
+    <value>Включить полосы прокрутки</value>
+  </data>
+  <data name="GENSET-lbl6" xml:space="preserve">
+    <value>Рецептов в режиме "только для чтения"</value>
+  </data>
+  <data name="GENSET-lbl7" xml:space="preserve">
+    <value>Активировать режим "штаба"</value>
+  </data>
+  <data name="GENSET-lbl8" xml:space="preserve">
+    <value>применимо только к теме «Light»</value>
+  </data>
+  <data name="GENSET-lbl12" xml:space="preserve">
+    <value>Клавиатура в полноэкранном режиме</value>
+  </data>
+  <data name="SET-btn1" xml:space="preserve">
+    <value>Hardware</value>
+  </data>
+  <data name="SET-btn2" xml:space="preserve">
+    <value>Ваш аккаунт</value>
+  </data>
+  <data name="SET-rbtn1" xml:space="preserve">
+    <value>Подписка</value>
+  </data>
+  <data name="SET-btn6" xml:space="preserve">
+    <value>Общие</value>
+  </data>
+  <data name="Btnconfirm" xml:space="preserve">
+    <value>Подтвердить</value>
+  </data>
+  <data name="Delete-lbl1" xml:space="preserve">
+    <value>Вы действительно хотите удалить этот элемент ?</value>
+  </data>
+  <data name="SETPRINT-lbl1" xml:space="preserve">
+    <value>Настройки печати</value>
+  </data>
+  <data name="SETPRINT-lbl5" xml:space="preserve">
+    <value>Печатать с новой строки при "+" в имени</value>
+  </data>
+  <data name="SETPRINT-lbl8" xml:space="preserve">
+    <value>Автоматическая печать чеков</value>
+  </data>
+  <data name="SETPRINT-lbl10" xml:space="preserve">
+    <value>Распечатать логотип ресторана</value>
+  </data>
+  <data name="SETPRINT-lbl9" xml:space="preserve">
+    <value>Если надо, распечатать с новой строки.</value>
+  </data>
+  <data name="SETPRINT-lbl11" xml:space="preserve">
+    <value>Распечатать QR-код чека</value>
+  </data>
+  <data name="Btn-save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="BTNDIS-btn2" xml:space="preserve">
+    <value>Ограниченные</value>
+  </data>
+  <data name="Btn-Enter" xml:space="preserve">
+    <value>Войти</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>ч</value>
+  </data>
+  <data name="Gramm" xml:space="preserve">
+    <value>г</value>
+  </data>
+  <data name="Novalue" xml:space="preserve">
+    <value>Нет значения</value>
+  </data>
+  <data name="SREC-Prodname" xml:space="preserve">
+    <value>Исполь-ные продукты</value>
+  </data>
+  <data name="SREC-Amounting" xml:space="preserve">
+    <value>Кол-ва (г)</value>
+  </data>
+  <data name="SREC-Indishes" xml:space="preserve">
+    <value>Используется в:</value>
+  </data>
+  <data name="SREC-lbl4" xml:space="preserve">
+    <value>Распечатать рецепт</value>
+  </data>
+  <data name="SREC-rbtn6" xml:space="preserve">
+    <value>Продукты</value>
+  </data>
+  <data name="SREC-rbtn7" xml:space="preserve">
+    <value>Рецепты</value>
+  </data>
+  <data name="EMPTT-workhours" xml:space="preserve">
+    <value>Часы работы</value>
+  </data>
+  <data name="EMPTT-Empworking" xml:space="preserve">
+    <value>Команда дня:</value>
+  </data>
+  <data name="EMPTT-daysofmonth" xml:space="preserve">
+    <value>Рабочие даты:</value>
+  </data>
+  <data name="EMPTT-lbl4" xml:space="preserve">
+    <value>Распечатать график</value>
+  </data>
+  <data name="EMPTT-sumhours" xml:space="preserve">
+    <value>Всего часов</value>
+  </data>
+  <data name="EMPTT-Salary/h" xml:space="preserve">
+    <value>Зарплата/час</value>
+  </data>
+  <data name="EMPTT-grosssalary" xml:space="preserve">
+    <value>Валовая зарплата</value>
+  </data>
+  <data name="EMPTT-bonus" xml:space="preserve">
+    <value>Премии</value>
+  </data>
+  <data name="EMPTT-penalities" xml:space="preserve">
+    <value>Штрафы</value>
+  </data>
+  <data name="EMPTT-finalsalary" xml:space="preserve">
+    <value>Итоговая зарплата</value>
+  </data>
+  <data name="Getimage" xml:space="preserve">
+    <value>Изображение</value>
+  </data>
+  <data name="SETPRINT-lbl2" xml:space="preserve">
+    <value>Количество копий на отпечаток</value>
+  </data>
+  <data name="GENSET-lbl9" xml:space="preserve">
+    <value>Выключить режим Менеджера</value>
+  </data>
+  <data name="TR-rbtn1" xml:space="preserve">
+    <value>Столы</value>
+  </data>
+  <data name="DC-lbl3" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="DC-lbl2" xml:space="preserve">
+    <value>Тема</value>
+  </data>
+  <data name="DC-lbl1" xml:space="preserve">
+    <value>Название компании</value>
+  </data>
+  <data name="DC-lbl6" xml:space="preserve">
+    <value>У вас уже есть аккаунт?</value>
+  </data>
+  <data name="DC-lbl7" xml:space="preserve">
+    <value>*Логотип компании ↑</value>
+  </data>
+  <data name="DC-lbl8" xml:space="preserve">
+    <value>Ваш адрес эл- почты</value>
+  </data>
+  <data name="DC-lbl9" xml:space="preserve">
+    <value>Ваш пароль</value>
+  </data>
+  <data name="DC-lbl11" xml:space="preserve">
+    <value>Код подтверждения</value>
+  </data>
+  <data name="DC-linkbl1" xml:space="preserve">
+    <value>Войти</value>
+  </data>
+  <data name="DC-rbtn1" xml:space="preserve">
+    <value>Зарегистрироваться</value>
+  </data>
+  <data name="DC-rbtn2" xml:space="preserve">
+    <value>Далее</value>
+  </data>
+  <data name="DC-rbtn7" xml:space="preserve">
+    <value>Удалить аккаунт</value>
+  </data>
+  <data name="DC-rbtn5" xml:space="preserve">
+    <value>Подтвердите код</value>
+  </data>
+  <data name="DC-rbtn6" xml:space="preserve">
+    <value>Отправить код</value>
+  </data>
+  <data name="Parcourir" xml:space="preserve">
+    <value>Просматривать</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="Inserer" xml:space="preserve">
+    <value>Вставлять</value>
+  </data>
+  <data name="Skip" xml:space="preserve">
+    <value>Пропускать</value>
+  </data>
+  <data name="Skipall" xml:space="preserve">
+    <value>Пропустить все</value>
+  </data>
+  <data name="FI-lbl4" xml:space="preserve">
+    <value>ГРУППА(Ы) БЛЮД</value>
+  </data>
+  <data name="Filename" xml:space="preserve">
+    <value>Название файла</value>
+  </data>
+  <data name="Sheets" xml:space="preserve">
+    <value>Листы</value>
+  </data>
+  <data name="FIT-lbl4" xml:space="preserve">
+    <value>БЛЮДО(А)</value>
+  </data>
+  <data name="DC-IndError" xml:space="preserve">
+    <value>Ошибка индекса</value>
+  </data>
+  <data name="DC-try11" xml:space="preserve">
+    <value>Пожалуйста, сначала введите имя</value>
+  </data>
+  <data name="DC-try12" xml:space="preserve">
+    <value>Пожалуйста, сначала введите пароль</value>
+  </data>
+  <data name="DC-try13" xml:space="preserve">
+    <value>Пожалуйста, сначала введите свой адрес эл. почты</value>
+  </data>
+  <data name="DC-try14" xml:space="preserve">
+    <value>Сначала подтвердите свой адрес эл. почты</value>
+  </data>
+  <data name="DC-try15" xml:space="preserve">
+    <value>Аккаунт успешно создан</value>
+  </data>
+  <data name="DC-try17" xml:space="preserve">
+    <value>Ошибка создания аккаунта.</value>
+  </data>
+  <data name="DC-try16" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="DC-try18" xml:space="preserve">
+    <value>Сначала создайте учетную запись</value>
+  </data>
+  <data name="Email-confirm" xml:space="preserve">
+    <value>Подтверждение эл. почты</value>
+  </data>
+  <data name="Email-conftext" xml:space="preserve">
+    <value>Ваш код подтверждения:</value>
+  </data>
+  <data name="Sel-image" xml:space="preserve">
+    <value>Выберите изображение</value>
+  </data>
+  <data name="DC-try19" xml:space="preserve">
+    <value>Код подтверждения успешно отправлен!</value>
+  </data>
+  <data name="DC-try20" xml:space="preserve">
+    <value>Не удалось отправить код подтверждения</value>
+  </data>
+  <data name="M-password" xml:space="preserve">
+    <value>Средний пароль</value>
+  </data>
+  <data name="W-password" xml:space="preserve">
+    <value>Слабый пароль</value>
+  </data>
+  <data name="Empty-password" xml:space="preserve">
+    <value>Пароль не может быть пустым.</value>
+  </data>
+  <data name="Empty-email" xml:space="preserve">
+    <value>Адрес эл. почты не может быть пустым.</value>
+  </data>
+  <data name="Inv-Email" xml:space="preserve">
+    <value>Неверный адрес эл. почты</value>
+  </data>
+  <data name="Del-account" xml:space="preserve">
+    <value>Аккаунт успешно удален</value>
+  </data>
+  <data name="ERRORDel-account" xml:space="preserve">
+    <value>Ошибка удаления аккаунта</value>
+  </data>
+  <data name="Noaccountdel" xml:space="preserve">
+    <value>Нет аккаунта для удаления</value>
+  </data>
+  <data name="DC-try21" xml:space="preserve">
+    <value>Ожидается 6 цифр</value>
+  </data>
+  <data name="DC-try22" xml:space="preserve">
+    <value>Код подтверждения не может быть пустым.</value>
+  </data>
+  <data name="DC-try23" xml:space="preserve">
+    <value>Неверный код подтверждения</value>
+  </data>
+  <data name="DC-try24" xml:space="preserve">
+    <value>Эл. почта успешно подтверждена</value>
+  </data>
+  <data name="Email-noreply" xml:space="preserve">
+    <value>Пожалуйста, не отвечайте на это эл. письмо.</value>
+  </data>
+  <data name="Bestregards" xml:space="preserve">
+    <value>С уважением</value>
+  </data>
+  <data name="Closefile" xml:space="preserve">
+    <value>Файл Excel уже открыт. Сначала закройте его!</value>
+  </data>
+  <data name="Unexpectederror" xml:space="preserve">
+    <value>Возникла неожиданная ошибка</value>
+  </data>
+  <data name="Checkdata" xml:space="preserve">
+    <value>Проверьте и исправьте данные, если необходимо, перед их вставкой.</value>
+  </data>
+  <data name="Exceldata" xml:space="preserve">
+    <value>Нет данных для вставки. Сначала добавьте данные из Excel</value>
+  </data>
+  <data name="Failedinsert" xml:space="preserve">
+    <value>Не удалось ввести данные.</value>
+  </data>
+  <data name="Insertsucess" xml:space="preserve">
+    <value>Данные успешно вставлены и сохранены</value>
+  </data>
+  <data name="Rowsdeleted" xml:space="preserve">
+    <value>Все строки успешно удалены</value>
+  </data>
+  <data name="Rowsnotdeleted" xml:space="preserve">
+    <value>Ни одна строка не была удалена</value>
+  </data>
+  <data name="FGI-Colinsert" xml:space="preserve">
+    <value>Ваши данные должны быть в первом и втором столбцах.</value>
+  </data>
+  <data name="FGI-Colinteger" xml:space="preserve">
+    <value>Значения в первом столбце должны быть целыми числами.</value>
+  </data>
+  <data name="FII-lbl4" xml:space="preserve">
+    <value>ПРОДУКТ(Ы) ПИТАНИЯ</value>
+  </data>
+  <data name="Invalidprice" xml:space="preserve">
+    <value>Неверный формат цены</value>
+  </data>
+  <data name="InvalidFoodID" xml:space="preserve">
+    <value>Неверный TypeID. Должно быть целым числом.</value>
+  </data>
+  <data name="Notenoughdata" xml:space="preserve">
+    <value>Отсутствуют данные в некоторых или всех обязательных столбцах (4 первых).</value>
+  </data>
+  <data name="FIIT-lbl4" xml:space="preserve">
+    <value>ТИП(Ы) ПРОДУКТА ПИТАНИЯ</value>
+  </data>
+  <data name="FSGI-lbl4" xml:space="preserve">
+    <value>ПИЩЕВАЯ ПОДГРУППА(Ы)</value>
+  </data>
+  <data name="FSGI-Col123" xml:space="preserve">
+    <value>Ваши данные должны быть в 1ом, 2ом и 3ем столбцах.</value>
+  </data>
+  <data name="FGSI-Intcol3" xml:space="preserve">
+    <value>«Значения в третьем столбце должны быть целыми числами»</value>
+  </data>
+  <data name="FSSGI-lbl4" xml:space="preserve">
+    <value>ПОДГРУППА(Ы) ПРОДУКТОВ ПИТАНИЯ</value>
+  </data>
+  <data name="Filterbygender" xml:space="preserve">
+    <value>Фильтр по полу</value>
+  </data>
+  <data name="Filterbyjob" xml:space="preserve">
+    <value>Фильтр по работе</value>
+  </data>
+</root>

@@ -1,0 +1,843 @@
+D:\4eme Annee\Pratique\PadTai\bin\Debug\PadTai.exe.config
+D:\4eme Annee\Pratique\PadTai\bin\Debug\PadTai.exe
+D:\4eme Annee\Pratique\PadTai\bin\Debug\PadTai.pdb
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Dapper.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Dapper.xml
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.csproj.AssemblyReference.cache
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.csproj.ResolveComReference.cache
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additionalbtns.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Paymentyandexeda.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processdeliveo.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.ProcessMastercard.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processpay.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processvisa.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Calculatrice.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Additives.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additives2.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Decerts.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Alldiscounts.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeconstructeur.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokefromchef.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeremplissage.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokesauce.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromPoke.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromWOK.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Shtats.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Drinks.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Entry.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheck.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Firminie.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Hotfood.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Kidmenu.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Kombo.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Onlinepay.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentsystem.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paynonliquid.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.WOKconstructeur.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Login.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.MainPage.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Pokebowl.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Pokemaining.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Pokeproteining.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Poketoping.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Payprocess.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Opening.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Properties.Resources.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.MainControl.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Delivery.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Soupes.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Stirfry.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Wokmaining.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Wokparty.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Wokproteining.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Woksauceing.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Deleterow.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Quitapp.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Turnoffpc.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Whenclosed.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Seefood.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.UpdateFood.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Updatemeals.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Security.FoodItemsSave.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.csproj.GenerateResource.cache
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.csproj.CoreCompileInputs.cache
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.csproj.Up2Date
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.exe
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.pdb
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reportviewer.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Foodcatereport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountreport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountcatreport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Deliveryreport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Allfoodreport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deltypecateport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Foodreport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Paytypecatreport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Paytypereport.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Classes.Colovercheck.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Addstaff.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deletestaff.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Seestaff.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Updatestaff.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Staffviewer.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Displayreceipts.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Receiptdetails.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Upreceiptpops.Deletereceipt.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Clientform.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Otdelupdater.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deleteemployee.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Messaging.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Timetabelbuilder.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Warningdept.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Otdelrenamer.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Changeotdel.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Clientwarning.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Saveconfirm.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Savewarning.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Emplotimetable.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Addreservation.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Deletereservation.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatereservation.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatestatus.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.Usecondtions.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Keyconstraintpop.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Doubletablepop.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Reservationdetails.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Reservationform.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Butttondisabler.resources
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Newtonsoft.Json.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Newtonsoft.Json.xml
+D:\4eme Annee\Pratique\PadTai\bin\Debug\DeltaCompressionDotNet.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.Mdb.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.Pdb.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.Rocks.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\NuGet.Squirrel.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\SharpCompress.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Squirrel.dll
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.pdb
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.Mdb.pdb
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.Pdb.pdb
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Mono.Cecil.Rocks.pdb
+D:\4eme Annee\Pratique\PadTai\bin\Debug\NuGet.Squirrel.pdb
+D:\4eme Annee\Pratique\PadTai\bin\Debug\Squirrel.pdb
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paytypeupdate.resources
+D:\4eme Annee\Pratique\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.ReceiptUpdater.Updateprocess.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe.config
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.pdb
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\LiveCharts.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\LiveCharts.Wpf.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\QRCoder.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.dll
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.xml
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.xml
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.pdb
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.pdb
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.xml
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.xml
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.pdb
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.AssemblyReference.cache
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.ResolveComReference.cache
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additionalbtns.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Paymentyandexeda.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processdeliveo.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.ProcessMastercard.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processpay.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processvisa.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paytypeupdate.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Otdelreports.Allotdelreports.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Dailygraphs.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupgraph.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Hoursgraph.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Deliverymap.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Clientinforming.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deliverysystem.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Onlineorderstatus.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Butttondisabler.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Changeotdel.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Clientwarning.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Otdelrenamer.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.QRcodegenerator.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.Usecondtions.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Saveconfirm.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Savewarning.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Addreservation.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Reservationdetails.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Doubletablepop.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Keyconstraintpop.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Deletereservation.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Reservationform.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatereservation.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatestatus.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Foodlist.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Warningdept.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Calculatrice.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Additives.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additives2.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Decerts.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Alldiscounts.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeconstructeur.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokefromchef.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeremplissage.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokesauce.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromPoke.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromWOK.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Shtats.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Drinks.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Entry.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheck.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Firminie.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Hotfood.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kidmenu.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kombo.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Onlinepay.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentsystem.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paynonliquid.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.WOKconstructeur.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Clientform.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Login.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Messaging.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Deliveryreport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountcatreport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountreport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Foodcatereport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Allfoodreport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainPage.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokebowl.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokemaining.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokeproteining.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Poketoping.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Payprocess.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Opening.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Properties.Resources.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainControl.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Delivery.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Soupes.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Stirfry.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokmaining.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokparty.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokproteining.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Woksauceing.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deltypecateport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Deleterow.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Foodreport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Paytypecatreport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Quitapp.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Turnoffpc.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Whenclosed.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Paytypereport.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reportviewer.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Emplotimetable.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Timetabelbuilder.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Addstaff.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deleteemployee.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deletestaff.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Otdelupdater.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Seestaff.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Staffviewer.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Updatestaff.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Upreceiptpops.Deletereceipt.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Displayreceipts.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Receiptdetails.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Seefood.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.UpdateFood.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Updatemeals.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.ReceiptUpdater.Updateprocess.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.GenerateResource.cache
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.CoreCompileInputs.cache
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.Up2Date
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.exe
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.pdb
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupchart.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Receipthourchart.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Payperhourchart.resources
+D:\4eme Annee\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Paychart.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe.config
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.pdb
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\QRCoder.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\SharpCompress.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Mono.Cecil.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\DeltaCompressionDotNet.dll
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.xml
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.xml
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.xml
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.pdb
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.pdb
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.xml
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.xml
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.pdb
+F:\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Mono.Cecil.pdb
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.AssemblyReference.cache
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.ResolveComReference.cache
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additionalbtns.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Paymentyandexeda.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processdeliveo.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.ProcessMastercard.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processpay.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processvisa.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paytypeupdate.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Otdelreports.Allotdelreports.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Dailygraphs.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupgraph.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Hoursgraph.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupchart.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Paychart.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Payperhourchart.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Receipthourchart.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Deliverymap.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Clientinforming.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deliverysystem.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Onlineorderstatus.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Butttondisabler.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Changeotdel.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Clientwarning.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Otdelrenamer.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.QRcodegenerator.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.Usecondtions.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Saveconfirm.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Savewarning.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Addreservation.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Reservationdetails.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Doubletablepop.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Keyconstraintpop.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Deletereservation.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Reservationform.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatereservation.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatestatus.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Foodlist.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Warningdept.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Calculatrice.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Additives.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additives2.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Decerts.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Alldiscounts.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeconstructeur.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokefromchef.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeremplissage.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokesauce.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromPoke.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromWOK.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Shtats.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Drinks.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Entry.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheck.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Firminie.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Hotfood.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kidmenu.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kombo.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Onlinepay.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentsystem.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paynonliquid.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.WOKconstructeur.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Clientform.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Login.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Messaging.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Deliveryreport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountcatreport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountreport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Foodcatereport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Allfoodreport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainPage.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokebowl.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokemaining.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokeproteining.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Poketoping.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Payprocess.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Opening.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Properties.Resources.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainControl.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Delivery.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Soupes.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Stirfry.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokmaining.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokparty.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokproteining.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Woksauceing.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deltypecateport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Deleterow.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Foodreport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Paytypecatreport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Quitapp.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Turnoffpc.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Whenclosed.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Paytypereport.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reportviewer.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Emplotimetable.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Timetabelbuilder.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Addstaff.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deleteemployee.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deletestaff.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Otdelupdater.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Seestaff.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Staffviewer.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Updatestaff.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Upreceiptpops.Deletereceipt.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Displayreceipts.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Receiptdetails.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Seefood.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.UpdateFood.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Updatemeals.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.ReceiptUpdater.Updateprocess.resources
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.GenerateResource.cache
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.CoreCompileInputs.cache
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.Up2Date
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.exe
+F:\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.pdb
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe.config
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.pdb
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\QRCoder.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\SharpCompress.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Mono.Cecil.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\DeltaCompressionDotNet.dll
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.xml
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.xml
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.pdb
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.pdb
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.xml
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.xml
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.pdb
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\bin\Debug\Mono.Cecil.pdb
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.AssemblyReference.cache
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.ResolveComReference.cache
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additionalbtns.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Paymentyandexeda.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processdeliveo.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.ProcessMastercard.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processpay.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processvisa.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paytypeupdate.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Otdelreports.Allotdelreports.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Dailygraphs.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupgraph.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Hoursgraph.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupchart.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Paychart.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Payperhourchart.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Receipthourchart.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Deliverymap.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Clientinforming.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deliverysystem.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Onlineorderstatus.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Butttondisabler.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Changeotdel.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Clientwarning.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Otdelrenamer.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.QRcodegenerator.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.Usecondtions.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Saveconfirm.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Savewarning.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Addreservation.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Reservationdetails.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Doubletablepop.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Keyconstraintpop.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Deletereservation.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Reservationform.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatereservation.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatestatus.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Foodlist.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Warningdept.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Calculatrice.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Additives.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additives2.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Decerts.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Alldiscounts.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeconstructeur.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokefromchef.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeremplissage.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokesauce.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromPoke.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromWOK.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Shtats.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Drinks.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Entry.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheck.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Firminie.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Hotfood.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kidmenu.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kombo.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Onlinepay.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentsystem.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paynonliquid.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.WOKconstructeur.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Clientform.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Login.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Messaging.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Deliveryreport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountcatreport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountreport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Foodcatereport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Allfoodreport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainPage.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokebowl.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokemaining.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokeproteining.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Poketoping.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Payprocess.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Opening.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Properties.Resources.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainControl.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Delivery.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Soupes.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Stirfry.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokmaining.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokparty.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokproteining.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Woksauceing.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deltypecateport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Deleterow.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Foodreport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Paytypecatreport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Quitapp.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Turnoffpc.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Whenclosed.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Paytypereport.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reportviewer.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Emplotimetable.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Timetabelbuilder.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Addstaff.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deleteemployee.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deletestaff.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Otdelupdater.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Seestaff.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Staffviewer.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Updatestaff.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Upreceiptpops.Deletereceipt.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Displayreceipts.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Receiptdetails.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Seefood.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.UpdateFood.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Updatemeals.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.ReceiptUpdater.Updateprocess.resources
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.GenerateResource.cache
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.CoreCompileInputs.cache
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.Up2Date
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.exe
+D:\4eme Annee\Pratique\Restaurant WEBAPP\Pratique\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.pdb
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe.config
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.exe
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\PadTai.pdb
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\QRCoder.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\SharpCompress.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Mono.Cecil.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\DeltaCompressionDotNet.dll
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Dapper.xml
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Newtonsoft.Json.xml
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\NuGet.Squirrel.pdb
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.pdb
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.xml
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\OxyPlot.WindowsForms.xml
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Squirrel.pdb
+D:\First Business\Restaurant DESKAPP\PadTai\bin\Debug\Mono.Cecil.pdb
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.AssemblyReference.cache
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.ResolveComReference.cache
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additionalbtns.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Paymentyandexeda.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processdeliveo.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.ProcessMastercard.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processpay.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentforms.Processvisa.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paytypeupdate.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Otdelreports.Allotdelreports.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Dailygraphs.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupgraph.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Hoursgraph.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupchart.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Paychart.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Payperhourchart.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Receipthourchart.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Deliverymap.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Clientinforming.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deliverysystem.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Onlineorderstatus.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Butttondisabler.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Changeotdel.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Clientwarning.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Otdelrenamer.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.QRcodegenerator.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deptmmodifier.Usecondtions.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Saveconfirm.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Savewarning.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Addreservation.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Reservationdetails.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Doubletablepop.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Keyconstraintpop.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Deletereservation.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Reservationform.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatereservation.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Updatestatus.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Foodlist.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Warningdept.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Calculatrice.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Additives.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additives2.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Decerts.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Alldiscounts.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeconstructeur.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokefromchef.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokeremplissage.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Pokesauce.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromPoke.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.RemovefromWOK.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Shtats.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Drinks.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Entry.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheck.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Firminie.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Hotfood.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kidmenu.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Kombo.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Onlinepay.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paymentsystem.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Paynonliquid.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.WOKconstructeur.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Clientform.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Login.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Messaging.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Deliveryreport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountcatreport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountreport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Foodcatereport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Allfoodreport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainPage.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokebowl.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokemaining.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Pokeproteining.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Poketoping.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Payprocess.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Opening.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Properties.Resources.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.MainControl.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Delivery.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Soupes.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Stirfry.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokmaining.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokparty.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Wokproteining.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Woksauceing.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deltypecateport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Deleterow.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Foodreport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Paytypecatreport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Quitapp.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Turnoffpc.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Whenclosed.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reports.Paytypereport.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reportviewer.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Emplotimetable.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Timetabelbuilder.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Addstaff.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deleteemployee.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Deletestaff.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Otdelupdater.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Seestaff.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Staffviewer.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Updatestaff.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Upreceiptpops.Deletereceipt.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Displayreceipts.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Receiptdetails.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Seefood.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.UpdateFood.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Updatemeals.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.ReceiptUpdater.Updateprocess.resources
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.GenerateResource.cache
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.CoreCompileInputs.cache
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.csproj.Up2Date
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.exe
+D:\First Business\Restaurant DESKAPP\PadTai\obj\Debug\PadTai.pdb
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\PadTai.exe.config
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\PadTai.exe
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\PadTai.pdb
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\fr\PadTai.resources.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\ru\PadTai.resources.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\ExcelDataReader.DataSet.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\ExcelDataReader.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\NuGet.Squirrel.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\QRCoder.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\Squirrel.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\System.Data.SQLite.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\System.Data.SQLite.EF6.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\System.Data.SQLite.Linq.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\System.Device.Portable.dll
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\ExcelDataReader.pdb
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\ExcelDataReader.xml
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\ExcelDataReader.DataSet.xml
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\NuGet.Squirrel.pdb
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\Squirrel.pdb
+D:\First Business\Restaurant WINAPP\PadTai\bin\Debug\System.Data.SQLite.xml
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.csproj.AssemblyReference.cache
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.csproj.ResolveComReference.cache
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Addit_btnsmore.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Additionalbtns.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Billsplitter.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Clientdiscount.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Clientslistdisplay.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.DefaultPayment.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.DeletedOrders.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.DeliveryControls.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.DiscountControls.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.DishGroupControl.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Fastchecksettings.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.IndividualDiscount.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.PayConfirmForm.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.PayupdateControls.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.PaymentControls.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.TablePlacesControl.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Resources.Strings.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Applisettings.Printersettings.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Clientloyalplan.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Companywebsite.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Departementsplitter.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Grossmanager.Allreceiptreport.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others_Forms.Alertform.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Daylyspendings.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Departcharts.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Employeereward.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Savereceipes.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Departmentdata.Managegross.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Monthlypayment.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Initialize_DB_APP.Fooditemtypeinsert.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Initialize_DB_APP.Foodsubgroupinsert.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Initialize_DB_APP.Foodsubsubgroupinsert.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Otdelreports.Allotdelreports.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Dailygraphs.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Foodgroupchart.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Paychart.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Receipthourchart.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.DB_Appinitialize.Databasecreate.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.DB_Appinitialize.Foodgroupsinsert.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.DB_Appinitialize.Fooditemsinsert.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.App_DBInitializer.Logindatabase.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Delivery.Deliverymap.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deliverysystem.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Generalsettings.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Butttondisabler.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Deptmmodifier.Otdelrenamer.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Clavieroverlay.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others_Forms.Waitform.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.Reservationdetails.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Reservationform.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereservation.TableStructure.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Deletedishconfirm.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Calculatrice.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheck.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Login.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Messaging.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Discountcatreport.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Foodcatereport.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Allfoodreport.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.MainPage.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Opening.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Properties.Resources.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others.Deltypecateport.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Deleterow.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Paytypecatreport.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Quitapp.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Quitfolder.Whenclosed.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Reportviewer.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Stafftimetable.Emplotimetable.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.Otherupdates.Customisablesform.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Otdelupdater.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.Staffupdater.Staffdash.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Staffviewer.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Displayreceipts.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updates.Receiptdetails.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.UpdateFood.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.ReceiptUpdater.Updateprocess.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.MainPage.fr.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.MainPage.ru.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Resources.Strings.ru.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Resources.Strings.fr.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.csproj.GenerateResource.cache
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.csproj.CoreCompileInputs.cache
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\fr\PadTai.resources.dll
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\ru\PadTai.resources.dll
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.csproj.Up2Date
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.exe
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.pdb
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Others_Forms.FormMessageBox.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Modifydishes.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Create.Modifygroups.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Update.Modifysubgroup.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Delete.ModifySubsubgroup.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Foodsettings.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.FoodUpdater.Updates.Modifytypes.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.Otherupdates.Modifytables.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.Otherupdates.Modifydiscounts.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Otdelreports.OtdelReturntable.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.Otherupdates.Modifypayments.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Updaters.Otherupdates.Modifypaygroups.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Staffmanager.Modifystaff.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Grossmanager.Modifyproduct.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Dailyreports.Dailyprints.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Fastcheckfiles.Comingsoon.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Tablereserve.Modifyreservation.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Clientsloyalty.Modifyclientsdata.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Clientsloyalty.Loyaltysettings.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Dailydeliverychart.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.Sec_daryfolders.Allreports.Reportgraphs.Dailydiscountchart.resources
+D:\First Business\Restaurant WINAPP\PadTai\obj\Debug\PadTai.exe.config
